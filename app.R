@@ -3,6 +3,7 @@ library(shiny)
 library(dplyr)
 library(ggplot2)
 library(plotly)
+library(shinycssloaders)
 
 #set working directory when running locally:
 #setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -15,31 +16,31 @@ ui <- fluidPage(
     # title
     title="Interactive visualisation",
     titlePanel(h2("Interactive visualisation of epidemiological data", align="center")),
-
+    
     # Sidebar layout
     sidebarLayout(
         
         #sidebarwith radio buttons
         sidebarPanel(width=3, style='margin: 30px 0 0 0',
                      
-            #selection of a grouping factor
-            radioButtons(inputId = "grouping_factor", label = "Grouping factor:",
-                         c("Type" = "Type",
-                           "Penicillin resistance" = "Penicillin resistance",
-                           "Macrolide resistance" = "Macrolide resistance"
-                           )),
-            
-            #selection of y-axis variable
-            radioButtons(inputId = "y", label = "Y-Axis:",
-                         c("Relative Frequency" = "Relative Frequency",
-                           "Absolute count" = "Absolute count"
-                         ))
+                     #selection of a grouping factor
+                     radioButtons(inputId = "grouping_factor", label = "Grouping factor:",
+                                  c("Type" = "Type",
+                                    "Penicillin resistance" = "Penicillin resistance",
+                                    "Macrolide resistance" = "Macrolide resistance"
+                                  )),
+                     
+                     #selection of y-axis variable
+                     radioButtons(inputId = "y", label = "Y-Axis:",
+                                  c("Relative Frequency" = "Relative Frequency",
+                                    "Absolute count" = "Absolute count"
+                                  ))
         ),
-
+        
         # main panel with resulting plot
         mainPanel(width=9,
-            plotlyOutput("plot")
-          
+                  plotlyOutput("plot") %>% withSpinner(color="#6495ed")
+                  
         )
     )
 )
@@ -60,16 +61,15 @@ server <- function(input, output) {
             geom_point(aes(colour = proc_data$grouping_factor, text = paste(Year,":",round(get(input$y),3))))+ #will give a warning, but "text" will be used later by ggplotly() tooltip
             geom_line(aes(colour = proc_data$grouping_factor))+
             facet_grid(Country ~ .)+
-            theme(legend.title = element_blank(), axis.text.x = element_text(angle = 90), axis.title.x = element_blank(),axis.title.y = element_blank(), strip.text.y = element_text(size = 15)) #axis & legend titles will be given in plotly() for better layout
+            theme(legend.title = element_blank(), axis.text.x = element_text(angle = 90), axis.title.x = element_blank(),axis.title.y = element_blank(), strip.text.y = element_text(size = 12)) #axis & legend titles will be given in plotly() for better layout
         
         #make it an interactive plotly object
         ggplotly(ggplot1, tooltip = c("text"), height = 550)%>%
             config(modeBarButtonsToRemove = c('toImage','select2d','lasso2d','autoScale2d','toggleSpikelines','hoverCompareCartesian','hoverClosestCartesian'))%>%config(displaylogo = FALSE)%>% #remove redundant buttons & logo
-            layout(legend = list(orientation = "h",xanchor = "center", x=0.5, y = -0.25), #position legend on bottom
-                   annotations= list(yref='paper',xref="paper",y=-0.27,xanchor = "center", x=0.5, text=input$grouping_factor,showarrow=F), #add legend title
+            layout(legend = list(orientation = "h",xanchor = "center", x=0.5, y = -0.25, title=list(text=input$grouping_factor, size=12)), #position legend on bottom & give title
                    xaxis = list(title=list(text="Year", standoff = 8), titlefont=list(size=18)), #add xaxis title
                    margin = list(l=60) #prevent yaxis title to disappear when changing windowsize
-                   )%>%
+            )%>%
             layout(annotations=list(xref = "paper", xanchor="right", x=0, xshift=-40, yref="paper", yanchor = "center", y=0.5, text=input$y,showarrow=F, textangle=-90))%>% #add yaxis title as annotation to have fixed position
             layout(font=list(size=18))
     })
