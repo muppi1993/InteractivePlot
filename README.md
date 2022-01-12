@@ -31,3 +31,8 @@ The use should be very intuitive.
 In the sidebar on the left the user can select different options for both the y-axis and the factor of interest to group the data. 
 
 The plot in the main panel reacts automatically to changes to the radio buttons. By clicking on the legend items the groups can be plotted separately. The buttons in the top right corner allow the user to adjust the displayed area.
+
+## Testing
+Testing via screenshots is available. Open `tests/shinytest/mytest.R` in RStudio and select 'Run Tests' in the top right corner of the source pane. You might need to load the `shinytest` package. 
+
+> Caution: The screenshots were produced on a Windows machine. When running the tests on a macOS, the layout of the app differs slightly and therefore screenshots will differ. Manually comparing the results is an option.
