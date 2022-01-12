@@ -1,0 +1,1154 @@
+{
+  "input": {
+    ".clientValue-default-plotlyCrosstalkOpts": {
+      "on": "plotly_click",
+      "persistent": false,
+      "dynamic": false,
+      "selectize": false,
+      "opacityDim": 0.2,
+      "selected": {
+        "opacity": 1
+      },
+      "debounce": 0,
+      "color": [
+
+      ]
+    },
+    "grouping_factor": "Penicillin resistance",
+    "plotly_afterplot-A": "\"plot\"",
+    "y": "Absolute count"
+  },
+  "output": {
+    "plot": {
+      "x": {
+        "data": [
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              29,
+              26,
+              28,
+              24,
+              30,
+              37,
+              19,
+              17,
+              27,
+              28,
+              25,
+              37,
+              25,
+              28,
+              23,
+              30,
+              21,
+              20,
+              25,
+              24,
+              25
+            ],
+            "text": [
+              "2000 : 29",
+              "2001 : 26",
+              "2002 : 28",
+              "2003 : 24",
+              "2004 : 30",
+              "2005 : 37",
+              "2006 : 19",
+              "2007 : 17",
+              "2008 : 27",
+              "2009 : 28",
+              "2010 : 25",
+              "2011 : 37",
+              "2012 : 25",
+              "2013 : 28",
+              "2014 : 23",
+              "2015 : 30",
+              "2016 : 21",
+              "2017 : 20",
+              "2018 : 25",
+              "2019 : 24",
+              "2020 : 25"
+            ],
+            "type": "scatter",
+            "mode": "markers",
+            "marker": {
+              "autocolorscale": false,
+              "color": "rgba(248,118,109,1)",
+              "opacity": 1,
+              "size": 5.66929133858268,
+              "symbol": "circle",
+              "line": {
+                "width": 1.88976377952756,
+                "color": "rgba(248,118,109,1)"
+              }
+            },
+            "hoveron": "points",
+            "name": "Sensitive",
+            "legendgroup": "Sensitive",
+            "showlegend": true,
+            "xaxis": "x",
+            "yaxis": "y",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              51,
+              52,
+              32,
+              52,
+              39,
+              34,
+              36,
+              42,
+              44,
+              44,
+              35,
+              38,
+              46,
+              43,
+              44,
+              34,
+              43,
+              34,
+              57,
+              28,
+              39
+            ],
+            "text": [
+              "2000 : 51",
+              "2001 : 52",
+              "2002 : 32",
+              "2003 : 52",
+              "2004 : 39",
+              "2005 : 34",
+              "2006 : 36",
+              "2007 : 42",
+              "2008 : 44",
+              "2009 : 44",
+              "2010 : 35",
+              "2011 : 38",
+              "2012 : 46",
+              "2013 : 43",
+              "2014 : 44",
+              "2015 : 34",
+              "2016 : 43",
+              "2017 : 34",
+              "2018 : 57",
+              "2019 : 28",
+              "2020 : 39"
+            ],
+            "type": "scatter",
+            "mode": "markers",
+            "marker": {
+              "autocolorscale": false,
+              "color": "rgba(248,118,109,1)",
+              "opacity": 1,
+              "size": 5.66929133858268,
+              "symbol": "circle",
+              "line": {
+                "width": 1.88976377952756,
+                "color": "rgba(248,118,109,1)"
+              }
+            },
+            "hoveron": "points",
+            "name": "Sensitive",
+            "legendgroup": "Sensitive",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y2",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              16,
+              13,
+              25,
+              16,
+              20,
+              26,
+              29,
+              32,
+              24,
+              28,
+              22,
+              20,
+              26,
+              28,
+              21,
+              22,
+              27,
+              24,
+              19,
+              23,
+              23
+            ],
+            "text": [
+              "2000 : 16",
+              "2001 : 13",
+              "2002 : 25",
+              "2003 : 16",
+              "2004 : 20",
+              "2005 : 26",
+              "2006 : 29",
+              "2007 : 32",
+              "2008 : 24",
+              "2009 : 28",
+              "2010 : 22",
+              "2011 : 20",
+              "2012 : 26",
+              "2013 : 28",
+              "2014 : 21",
+              "2015 : 22",
+              "2016 : 27",
+              "2017 : 24",
+              "2018 : 19",
+              "2019 : 23",
+              "2020 : 23"
+            ],
+            "type": "scatter",
+            "mode": "markers",
+            "marker": {
+              "autocolorscale": false,
+              "color": "rgba(0,191,196,1)",
+              "opacity": 1,
+              "size": 5.66929133858268,
+              "symbol": "circle",
+              "line": {
+                "width": 1.88976377952756,
+                "color": "rgba(0,191,196,1)"
+              }
+            },
+            "hoveron": "points",
+            "name": "Resistant",
+            "legendgroup": "Resistant",
+            "showlegend": true,
+            "xaxis": "x",
+            "yaxis": "y",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              4,
+              2,
+              3,
+              4,
+              6,
+              3,
+              10,
+              10,
+              4,
+              7,
+              9,
+              3,
+              3,
+              6,
+              3,
+              4,
+              6,
+              4,
+              2,
+              4,
+              4
+            ],
+            "text": [
+              "2000 : 4",
+              "2001 : 2",
+              "2002 : 3",
+              "2003 : 4",
+              "2004 : 6",
+              "2005 : 3",
+              "2006 : 10",
+              "2007 : 10",
+              "2008 : 4",
+              "2009 : 7",
+              "2010 : 9",
+              "2011 : 3",
+              "2012 : 3",
+              "2013 : 6",
+              "2014 : 3",
+              "2015 : 4",
+              "2016 : 6",
+              "2017 : 4",
+              "2018 : 2",
+              "2019 : 4",
+              "2020 : 4"
+            ],
+            "type": "scatter",
+            "mode": "markers",
+            "marker": {
+              "autocolorscale": false,
+              "color": "rgba(0,191,196,1)",
+              "opacity": 1,
+              "size": 5.66929133858268,
+              "symbol": "circle",
+              "line": {
+                "width": 1.88976377952756,
+                "color": "rgba(0,191,196,1)"
+              }
+            },
+            "hoveron": "points",
+            "name": "Resistant",
+            "legendgroup": "Resistant",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y2",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              29,
+              26,
+              28,
+              24,
+              30,
+              37,
+              19,
+              17,
+              27,
+              28,
+              25,
+              37,
+              25,
+              28,
+              23,
+              30,
+              21,
+              20,
+              25,
+              24,
+              25
+            ],
+            "text": "",
+            "type": "scatter",
+            "mode": "lines",
+            "line": {
+              "width": 1.88976377952756,
+              "color": "rgba(248,118,109,1)",
+              "dash": "solid"
+            },
+            "hoveron": "points",
+            "name": "Sensitive",
+            "legendgroup": "Sensitive",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              51,
+              52,
+              32,
+              52,
+              39,
+              34,
+              36,
+              42,
+              44,
+              44,
+              35,
+              38,
+              46,
+              43,
+              44,
+              34,
+              43,
+              34,
+              57,
+              28,
+              39
+            ],
+            "text": "",
+            "type": "scatter",
+            "mode": "lines",
+            "line": {
+              "width": 1.88976377952756,
+              "color": "rgba(248,118,109,1)",
+              "dash": "solid"
+            },
+            "hoveron": "points",
+            "name": "Sensitive",
+            "legendgroup": "Sensitive",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y2",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              16,
+              13,
+              25,
+              16,
+              20,
+              26,
+              29,
+              32,
+              24,
+              28,
+              22,
+              20,
+              26,
+              28,
+              21,
+              22,
+              27,
+              24,
+              19,
+              23,
+              23
+            ],
+            "text": "",
+            "type": "scatter",
+            "mode": "lines",
+            "line": {
+              "width": 1.88976377952756,
+              "color": "rgba(0,191,196,1)",
+              "dash": "solid"
+            },
+            "hoveron": "points",
+            "name": "Resistant",
+            "legendgroup": "Resistant",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y",
+            "hoverinfo": "text",
+            "frame": null
+          },
+          {
+            "x": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "y": [
+              4,
+              2,
+              3,
+              4,
+              6,
+              3,
+              10,
+              10,
+              4,
+              7,
+              9,
+              3,
+              3,
+              6,
+              3,
+              4,
+              6,
+              4,
+              2,
+              4,
+              4
+            ],
+            "text": "",
+            "type": "scatter",
+            "mode": "lines",
+            "line": {
+              "width": 1.88976377952756,
+              "color": "rgba(0,191,196,1)",
+              "dash": "solid"
+            },
+            "hoveron": "points",
+            "name": "Resistant",
+            "legendgroup": "Resistant",
+            "showlegend": false,
+            "xaxis": "x",
+            "yaxis": "y2",
+            "hoverinfo": "text",
+            "frame": null
+          }
+        ],
+        "layout": {
+          "margin": {
+            "t": 36.1909506019095,
+            "r": 23.2461602324616,
+            "b": 35.5334163553342,
+            "l": 60
+          },
+          "plot_bgcolor": "rgba(235,235,235,1)",
+          "paper_bgcolor": "rgba(255,255,255,1)",
+          "font": {
+            "color": "rgba(0,0,0,1)",
+            "family": "",
+            "size": 18
+          },
+          "xaxis": {
+            "domain": [
+              0,
+              1
+            ],
+            "automargin": true,
+            "type": "linear",
+            "autorange": false,
+            "range": [
+              0.4,
+              21.6
+            ],
+            "tickmode": "array",
+            "ticktext": [
+              "2000",
+              "2001",
+              "2002",
+              "2003",
+              "2004",
+              "2005",
+              "2006",
+              "2007",
+              "2008",
+              "2009",
+              "2010",
+              "2011",
+              "2012",
+              "2013",
+              "2014",
+              "2015",
+              "2016",
+              "2017",
+              "2018",
+              "2019",
+              "2020"
+            ],
+            "tickvals": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "categoryorder": "array",
+            "categoryarray": [
+              "2000",
+              "2001",
+              "2002",
+              "2003",
+              "2004",
+              "2005",
+              "2006",
+              "2007",
+              "2008",
+              "2009",
+              "2010",
+              "2011",
+              "2012",
+              "2013",
+              "2014",
+              "2015",
+              "2016",
+              "2017",
+              "2018",
+              "2019",
+              "2020"
+            ],
+            "nticks": null,
+            "ticks": "outside",
+            "tickcolor": "rgba(51,51,51,1)",
+            "ticklen": 3.65296803652968,
+            "tickwidth": 0.66417600664176,
+            "showticklabels": true,
+            "tickfont": {
+              "color": "rgba(77,77,77,1)",
+              "family": "",
+              "size": 11.689497716895
+            },
+            "tickangle": -90,
+            "showline": false,
+            "linecolor": null,
+            "linewidth": 0,
+            "showgrid": true,
+            "gridcolor": "rgba(255,255,255,1)",
+            "gridwidth": 0.66417600664176,
+            "zeroline": false,
+            "anchor": "y2",
+            "title": {
+              "text": "Year",
+              "standoff": 8
+            },
+            "hoverformat": ".2f",
+            "titlefont": {
+              "size": 18
+            }
+          },
+          "yaxis": {
+            "domain": [
+              0.509962640099626,
+              1
+            ],
+            "automargin": true,
+            "type": "linear",
+            "autorange": false,
+            "range": [
+              -0.75,
+              59.75
+            ],
+            "tickmode": "array",
+            "ticktext": [
+              "0",
+              "20",
+              "40"
+            ],
+            "tickvals": [
+              0,
+              20,
+              40
+            ],
+            "categoryorder": "array",
+            "categoryarray": [
+              "0",
+              "20",
+              "40"
+            ],
+            "nticks": null,
+            "ticks": "outside",
+            "tickcolor": "rgba(51,51,51,1)",
+            "ticklen": 3.65296803652968,
+            "tickwidth": 0.66417600664176,
+            "showticklabels": true,
+            "tickfont": {
+              "color": "rgba(77,77,77,1)",
+              "family": "",
+              "size": 11.689497716895
+            },
+            "tickangle": 0,
+            "showline": false,
+            "linecolor": null,
+            "linewidth": 0,
+            "showgrid": true,
+            "gridcolor": "rgba(255,255,255,1)",
+            "gridwidth": 0.66417600664176,
+            "zeroline": false,
+            "anchor": "x",
+            "title": "",
+            "hoverformat": ".2f"
+          },
+          "shapes": [
+            {
+              "type": "rect",
+              "fillcolor": null,
+              "line": {
+                "color": null,
+                "width": 0,
+                "linetype": [
+
+                ]
+              },
+              "yref": "paper",
+              "xref": "paper",
+              "x0": 0,
+              "x1": 1,
+              "y0": 0.509962640099626,
+              "y1": 1
+            },
+            {
+              "type": "rect",
+              "fillcolor": "rgba(217,217,217,1)",
+              "line": {
+                "color": "transparent",
+                "width": 0.66417600664176,
+                "linetype": "solid"
+              },
+              "yref": "paper",
+              "xref": "paper",
+              "y0": 0.509962640099626,
+              "y1": 1,
+              "x0": 0,
+              "x1": 27.6297218762972,
+              "xanchor": 1,
+              "xsizemode": "pixel"
+            },
+            {
+              "type": "rect",
+              "fillcolor": null,
+              "line": {
+                "color": null,
+                "width": 0,
+                "linetype": [
+
+                ]
+              },
+              "yref": "paper",
+              "xref": "paper",
+              "x0": 0,
+              "x1": 1,
+              "y0": 0,
+              "y1": 0.490037359900374
+            },
+            {
+              "type": "rect",
+              "fillcolor": "rgba(217,217,217,1)",
+              "line": {
+                "color": "transparent",
+                "width": 0.66417600664176,
+                "linetype": "solid"
+              },
+              "yref": "paper",
+              "xref": "paper",
+              "y0": 0,
+              "y1": 0.490037359900374,
+              "x0": 0,
+              "x1": 27.6297218762972,
+              "xanchor": 1,
+              "xsizemode": "pixel"
+            }
+          ],
+          "annotations": [
+            {
+              "text": "South Africa",
+              "x": 1,
+              "y": 0.754981320049813,
+              "showarrow": false,
+              "ax": 0,
+              "ay": 0,
+              "font": {
+                "color": "rgba(26,26,26,1)",
+                "family": "",
+                "size": 15.9402241594022
+              },
+              "xref": "paper",
+              "yref": "paper",
+              "textangle": 90,
+              "xanchor": "left",
+              "yanchor": "middle"
+            },
+            {
+              "text": "USA",
+              "x": 1,
+              "y": 0.245018679950187,
+              "showarrow": false,
+              "ax": 0,
+              "ay": 0,
+              "font": {
+                "color": "rgba(26,26,26,1)",
+                "family": "",
+                "size": 15.9402241594022
+              },
+              "xref": "paper",
+              "yref": "paper",
+              "textangle": 90,
+              "xanchor": "left",
+              "yanchor": "middle"
+            },
+            {
+              "xref": "paper",
+              "xanchor": "right",
+              "x": 0,
+              "xshift": -40,
+              "yref": "paper",
+              "yanchor": "center",
+              "y": 0.5,
+              "text": "Absolute count",
+              "showarrow": false,
+              "textangle": -90
+            }
+          ],
+          "yaxis2": {
+            "type": "linear",
+            "autorange": false,
+            "range": [
+              -0.75,
+              59.75
+            ],
+            "tickmode": "array",
+            "ticktext": [
+              "0",
+              "20",
+              "40"
+            ],
+            "tickvals": [
+              0,
+              20,
+              40
+            ],
+            "categoryorder": "array",
+            "categoryarray": [
+              "0",
+              "20",
+              "40"
+            ],
+            "nticks": null,
+            "ticks": "outside",
+            "tickcolor": "rgba(51,51,51,1)",
+            "ticklen": 3.65296803652968,
+            "tickwidth": 0.66417600664176,
+            "showticklabels": true,
+            "tickfont": {
+              "color": "rgba(77,77,77,1)",
+              "family": "",
+              "size": 11.689497716895
+            },
+            "tickangle": 0,
+            "showline": false,
+            "linecolor": null,
+            "linewidth": 0,
+            "showgrid": true,
+            "domain": [
+              0,
+              0.490037359900374
+            ],
+            "gridcolor": "rgba(255,255,255,1)",
+            "gridwidth": 0.66417600664176,
+            "zeroline": false,
+            "anchor": "x",
+            "title": "",
+            "hoverformat": ".2f"
+          },
+          "showlegend": true,
+          "legend": {
+            "bgcolor": "rgba(255,255,255,1)",
+            "bordercolor": "transparent",
+            "borderwidth": 1.88976377952756,
+            "font": {
+              "color": "rgba(0,0,0,1)",
+              "family": "",
+              "size": 11.689497716895
+            },
+            "y": -0.25,
+            "orientation": "h",
+            "xanchor": "center",
+            "x": 0.5,
+            "title": {
+              "text": "Penicillin resistance",
+              "size": 12
+            }
+          },
+          "hovermode": "closest",
+          "height": 550,
+          "barmode": "relative"
+        },
+        "config": {
+          "doubleClick": "reset",
+          "showSendToCloud": false,
+          "modeBarButtonsToRemove": [
+            "toImage",
+            "select2d",
+            "lasso2d",
+            "autoScale2d",
+            "toggleSpikelines",
+            "hoverCompareCartesian",
+            "hoverClosestCartesian"
+          ],
+          "displaylogo": false
+        },
+        "source": "A",
+        "highlight": {
+          "on": "plotly_click",
+          "persistent": false,
+          "dynamic": false,
+          "selectize": false,
+          "opacityDim": 0.2,
+          "selected": {
+            "opacity": 1
+          },
+          "debounce": 0
+        },
+        "shinyEvents": [
+          "plotly_hover",
+          "plotly_click",
+          "plotly_selected",
+          "plotly_relayout",
+          "plotly_brushed",
+          "plotly_brushing",
+          "plotly_clickannotation",
+          "plotly_doubleclick",
+          "plotly_deselect",
+          "plotly_afterplot",
+          "plotly_sunburstclick"
+        ],
+        "base_url": "https://plot.ly"
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+        {
+          "name": "setprototypeof",
+          "version": "0.1",
+          "src": {
+            "href": "setprototypeof-0.1"
+          },
+          "meta": null,
+          "script": "setprototypeof.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "typedarray",
+          "version": "0.1",
+          "src": {
+            "href": "typedarray-0.1"
+          },
+          "meta": null,
+          "script": "typedarray.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "jquery",
+          "version": "3.5.1",
+          "src": {
+            "href": "jquery-3.5.1"
+          },
+          "meta": null,
+          "script": "jquery.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "crosstalk",
+          "version": "1.1.1",
+          "src": {
+            "href": "crosstalk-1.1.1"
+          },
+          "meta": null,
+          "script": "js/crosstalk.min.js",
+          "stylesheet": "css/crosstalk.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "plotly-htmlwidgets-css",
+          "version": "1.57.1",
+          "src": {
+            "href": "plotly-htmlwidgets-css-1.57.1"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": "plotly-htmlwidgets.css",
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        },
+        {
+          "name": "plotly-main",
+          "version": "1.57.1",
+          "src": {
+            "href": "plotly-main-1.57.1"
+          },
+          "meta": null,
+          "script": "plotly-latest.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "all_files": false
+        }
+      ]
+    }
+  },
+  "export": {
+
+  }
+}
