@@ -1,0 +1,2001 @@
+Id,Country,Sampling date,Penicillin resistance,Macrolide resistance,Type
+Pnc_1,South Africa,2004-08-29,Sensitive,Sensitive,A
+Pnc_2,USA,2020-06-26,Sensitive,Sensitive,B
+Pnc_3,USA,2011-11-08,Sensitive,Sensitive,B
+Pnc_4,USA,2016-05-01,Sensitive,Resistant,B
+Pnc_5,South Africa,2020-05-16,Resistant,Sensitive,B
+Pnc_6,South Africa,2014-03-14,Sensitive,Sensitive,B
+Pnc_7,USA,2000-03-31,Sensitive,Resistant,B
+Pnc_8,South Africa,2007-01-31,Sensitive,Sensitive,A
+Pnc_9,South Africa,2020-07-30,Sensitive,Sensitive,A
+Pnc_10,South Africa,2001-04-03,Resistant,Sensitive,A
+Pnc_11,USA,2004-07-01,Resistant,Sensitive,A
+Pnc_12,USA,2018-05-04,Sensitive,Sensitive,B
+Pnc_13,USA,2004-02-06,Sensitive,Resistant,B
+Pnc_14,South Africa,2019-04-14,Resistant,Sensitive,B
+Pnc_15,USA,2009-07-28,Sensitive,Sensitive,B
+Pnc_16,USA,2009-11-21,Sensitive,Resistant,A
+Pnc_17,South Africa,2019-10-14,Resistant,Sensitive,B
+Pnc_18,USA,2010-12-26,Sensitive,Resistant,B
+Pnc_19,USA,2016-02-06,Sensitive,Resistant,B
+Pnc_20,USA,2006-04-28,Sensitive,Sensitive,B
+Pnc_21,South Africa,2004-04-04,Sensitive,Sensitive,A
+Pnc_22,South Africa,2016-03-11,Resistant,Sensitive,A
+Pnc_23,USA,2014-07-25,Resistant,Sensitive,B
+Pnc_24,USA,2006-06-30,Sensitive,Resistant,B
+Pnc_25,South Africa,2020-06-18,Sensitive,Sensitive,A
+Pnc_26,USA,2004-03-22,Sensitive,Resistant,A
+Pnc_27,USA,2019-05-19,Sensitive,Resistant,B
+Pnc_28,South Africa,2002-04-22,Resistant,Sensitive,A
+Pnc_29,USA,2004-08-09,Sensitive,Resistant,A
+Pnc_30,South Africa,2013-01-27,Sensitive,Sensitive,A
+Pnc_31,USA,2000-07-27,Sensitive,Sensitive,B
+Pnc_32,USA,2014-07-28,Sensitive,Resistant,B
+Pnc_33,USA,2007-07-01,Sensitive,Sensitive,A
+Pnc_34,South Africa,2004-10-16,Resistant,Sensitive,A
+Pnc_35,USA,2010-12-23,Sensitive,Resistant,B
+Pnc_36,South Africa,2000-09-23,Sensitive,Sensitive,A
+Pnc_37,USA,2000-03-10,Sensitive,Sensitive,A
+Pnc_38,South Africa,2020-11-11,Resistant,Sensitive,B
+Pnc_39,USA,2018-05-20,Sensitive,Resistant,B
+Pnc_40,USA,2009-06-27,Sensitive,Resistant,A
+Pnc_41,South Africa,2015-07-12,Resistant,Sensitive,A
+Pnc_42,USA,2018-11-17,Sensitive,Resistant,B
+Pnc_43,USA,2013-04-10,Sensitive,Sensitive,B
+Pnc_44,South Africa,2005-05-24,Sensitive,Sensitive,B
+Pnc_45,USA,2013-09-17,Sensitive,Sensitive,B
+Pnc_46,USA,2016-11-22,Sensitive,Resistant,B
+Pnc_47,South Africa,2001-11-27,Sensitive,Sensitive,A
+Pnc_48,USA,2001-10-18,Sensitive,Sensitive,A
+Pnc_49,USA,2013-10-04,Sensitive,Resistant,B
+Pnc_50,USA,2002-09-19,Resistant,Resistant,B
+Pnc_51,USA,2004-07-30,Sensitive,Resistant,A
+Pnc_52,South Africa,2017-12-28,Sensitive,Sensitive,B
+Pnc_53,South Africa,2012-07-30,Sensitive,Sensitive,A
+Pnc_54,South Africa,2008-10-11,Sensitive,Sensitive,A
+Pnc_55,USA,2016-01-05,Resistant,Resistant,B
+Pnc_56,South Africa,2015-02-12,Resistant,Sensitive,A
+Pnc_57,USA,2003-09-07,Sensitive,Sensitive,A
+Pnc_58,South Africa,2000-04-12,Sensitive,Sensitive,A
+Pnc_59,South Africa,2012-03-12,Sensitive,Sensitive,A
+Pnc_60,USA,2001-07-13,Sensitive,Resistant,A
+Pnc_61,South Africa,2010-01-28,Resistant,Resistant,A
+Pnc_62,South Africa,2017-05-28,Sensitive,Sensitive,B
+Pnc_63,South Africa,2016-11-08,Resistant,Resistant,A
+Pnc_64,USA,2006-07-15,Sensitive,Sensitive,A
+Pnc_65,USA,2010-07-09,Sensitive,Resistant,B
+Pnc_66,USA,2013-05-22,Resistant,Sensitive,B
+Pnc_67,South Africa,2005-08-15,Resistant,Sensitive,B
+Pnc_68,USA,2002-06-23,Resistant,Sensitive,B
+Pnc_69,USA,2013-04-19,Sensitive,Resistant,B
+Pnc_70,South Africa,2015-08-29,Sensitive,Sensitive,A
+Pnc_71,USA,2008-10-30,Resistant,Resistant,A
+Pnc_72,South Africa,2018-02-19,Resistant,Sensitive,B
+Pnc_73,South Africa,2017-11-20,Resistant,Sensitive,A
+Pnc_74,USA,2001-07-07,Sensitive,Sensitive,A
+Pnc_75,South Africa,2009-12-20,Sensitive,Sensitive,B
+Pnc_76,South Africa,2018-01-13,Resistant,Sensitive,B
+Pnc_77,South Africa,2012-02-08,Resistant,Sensitive,B
+Pnc_78,South Africa,2019-02-22,Sensitive,Sensitive,B
+Pnc_79,USA,2018-10-06,Sensitive,Resistant,B
+Pnc_80,South Africa,2014-08-05,Resistant,Sensitive,B
+Pnc_81,South Africa,2018-01-10,Sensitive,Sensitive,B
+Pnc_82,USA,2014-12-12,Sensitive,Resistant,B
+Pnc_83,South Africa,2008-08-01,Resistant,Sensitive,A
+Pnc_84,South Africa,2020-11-21,Resistant,Sensitive,B
+Pnc_85,South Africa,2013-01-03,Sensitive,Sensitive,B
+Pnc_86,USA,2011-06-30,Sensitive,Sensitive,B
+Pnc_87,South Africa,2006-07-26,Resistant,Sensitive,A
+Pnc_88,USA,2012-12-06,Sensitive,Resistant,B
+Pnc_89,USA,2000-11-04,Sensitive,Sensitive,A
+Pnc_90,USA,2016-12-28,Sensitive,Sensitive,B
+Pnc_91,South Africa,2018-08-26,Sensitive,Sensitive,A
+Pnc_92,South Africa,2009-11-02,Sensitive,Sensitive,B
+Pnc_93,South Africa,2005-07-12,Resistant,Sensitive,B
+Pnc_94,South Africa,2020-08-16,Resistant,Sensitive,A
+Pnc_95,USA,2019-05-24,Sensitive,Sensitive,A
+Pnc_96,USA,2018-08-24,Sensitive,Sensitive,B
+Pnc_97,South Africa,2013-04-04,Resistant,Sensitive,B
+Pnc_98,USA,2004-01-11,Sensitive,Sensitive,B
+Pnc_99,USA,2014-09-01,Sensitive,Resistant,B
+Pnc_100,USA,2010-01-16,Sensitive,Sensitive,B
+Pnc_101,USA,2012-10-07,Sensitive,Sensitive,B
+Pnc_102,South Africa,2017-10-30,Sensitive,Sensitive,B
+Pnc_103,South Africa,2009-06-10,Resistant,Resistant,A
+Pnc_104,South Africa,2011-07-02,Resistant,Sensitive,B
+Pnc_105,USA,2018-08-08,Sensitive,Resistant,B
+Pnc_106,USA,2011-02-09,Sensitive,Resistant,B
+Pnc_107,South Africa,2006-07-09,Sensitive,Sensitive,B
+Pnc_108,South Africa,2008-08-30,Resistant,Sensitive,A
+Pnc_109,South Africa,2013-05-27,Resistant,Sensitive,B
+Pnc_110,South Africa,2002-07-03,Resistant,Resistant,A
+Pnc_111,USA,2020-02-14,Sensitive,Resistant,A
+Pnc_112,USA,2012-09-27,Resistant,Sensitive,B
+Pnc_113,South Africa,2015-07-26,Resistant,Sensitive,B
+Pnc_114,USA,2007-08-05,Sensitive,Resistant,A
+Pnc_115,South Africa,2001-07-20,Sensitive,Sensitive,B
+Pnc_116,USA,2017-03-10,Sensitive,Sensitive,B
+Pnc_117,USA,2017-05-24,Sensitive,Resistant,B
+Pnc_118,USA,2004-02-18,Sensitive,Resistant,B
+Pnc_119,South Africa,2008-01-14,Sensitive,Sensitive,B
+Pnc_120,USA,2012-12-01,Sensitive,Resistant,B
+Pnc_121,South Africa,2004-01-24,Sensitive,Sensitive,A
+Pnc_122,USA,2013-02-04,Sensitive,Sensitive,B
+Pnc_123,South Africa,2019-07-10,Sensitive,Sensitive,B
+Pnc_124,South Africa,2017-06-16,Resistant,Sensitive,A
+Pnc_125,USA,2008-06-02,Resistant,Resistant,B
+Pnc_126,South Africa,2005-12-22,Resistant,Sensitive,A
+Pnc_127,USA,2011-08-20,Sensitive,Sensitive,B
+Pnc_128,South Africa,2004-09-11,Resistant,Sensitive,A
+Pnc_129,USA,2012-01-29,Sensitive,Sensitive,B
+Pnc_130,USA,2017-05-06,Resistant,Resistant,B
+Pnc_131,USA,2001-02-21,Sensitive,Resistant,A
+Pnc_132,South Africa,2003-02-28,Sensitive,Sensitive,A
+Pnc_133,USA,2001-11-18,Sensitive,Sensitive,B
+Pnc_134,USA,2004-04-18,Sensitive,Sensitive,A
+Pnc_135,USA,2003-12-22,Sensitive,Sensitive,A
+Pnc_136,USA,2010-09-05,Sensitive,Sensitive,B
+Pnc_137,South Africa,2005-11-03,Resistant,Sensitive,A
+Pnc_138,USA,2010-10-17,Sensitive,Resistant,B
+Pnc_139,USA,2000-05-08,Sensitive,Sensitive,B
+Pnc_140,USA,2017-07-03,Sensitive,Sensitive,B
+Pnc_141,USA,2011-12-28,Sensitive,Resistant,A
+Pnc_142,USA,2018-04-26,Sensitive,Resistant,B
+Pnc_143,USA,2008-11-24,Sensitive,Resistant,B
+Pnc_144,USA,2009-05-04,Sensitive,Sensitive,B
+Pnc_145,South Africa,2000-07-06,Resistant,Sensitive,A
+Pnc_146,USA,2007-12-17,Sensitive,Resistant,B
+Pnc_147,South Africa,2017-06-09,Sensitive,Sensitive,B
+Pnc_148,South Africa,2020-12-31,Resistant,Sensitive,B
+Pnc_149,USA,2001-05-16,Sensitive,Sensitive,B
+Pnc_150,South Africa,2004-06-20,Sensitive,Sensitive,B
+Pnc_151,South Africa,2012-12-12,Sensitive,Sensitive,B
+Pnc_152,USA,2013-10-26,Sensitive,Resistant,B
+Pnc_153,South Africa,2009-04-08,Sensitive,Resistant,B
+Pnc_154,South Africa,2018-04-20,Resistant,Resistant,B
+Pnc_155,USA,2001-07-05,Sensitive,Sensitive,B
+Pnc_156,South Africa,2011-06-02,Resistant,Sensitive,A
+Pnc_157,South Africa,2005-05-21,Sensitive,Sensitive,A
+Pnc_158,South Africa,2012-10-17,Sensitive,Sensitive,A
+Pnc_159,USA,2006-05-02,Sensitive,Resistant,A
+Pnc_160,South Africa,2016-06-19,Resistant,Sensitive,B
+Pnc_161,USA,2013-04-23,Sensitive,Resistant,B
+Pnc_162,South Africa,2020-08-10,Resistant,Sensitive,B
+Pnc_163,USA,2012-11-08,Sensitive,Resistant,B
+Pnc_164,South Africa,2011-10-19,Sensitive,Sensitive,A
+Pnc_165,USA,2018-10-29,Sensitive,Sensitive,B
+Pnc_166,USA,2016-04-02,Sensitive,Sensitive,B
+Pnc_167,South Africa,2015-05-19,Sensitive,Resistant,B
+Pnc_168,South Africa,2002-05-23,Sensitive,Sensitive,A
+Pnc_169,USA,2000-02-02,Sensitive,Resistant,A
+Pnc_170,South Africa,2010-02-05,Resistant,Sensitive,B
+Pnc_171,USA,2018-05-25,Sensitive,Sensitive,B
+Pnc_172,South Africa,2016-03-24,Sensitive,Sensitive,A
+Pnc_173,USA,2008-10-26,Sensitive,Sensitive,B
+Pnc_174,South Africa,2008-06-28,Sensitive,Sensitive,A
+Pnc_175,South Africa,2016-06-11,Resistant,Sensitive,B
+Pnc_176,South Africa,2019-03-13,Sensitive,Sensitive,A
+Pnc_177,South Africa,2019-06-01,Resistant,Sensitive,A
+Pnc_178,South Africa,2002-11-08,Sensitive,Resistant,B
+Pnc_179,USA,2010-03-20,Sensitive,Sensitive,B
+Pnc_180,South Africa,2000-02-08,Sensitive,Sensitive,B
+Pnc_181,South Africa,2009-02-25,Resistant,Sensitive,A
+Pnc_182,USA,2004-01-03,Sensitive,Resistant,B
+Pnc_183,USA,2011-04-07,Sensitive,Resistant,B
+Pnc_184,South Africa,2019-08-31,Sensitive,Resistant,A
+Pnc_185,South Africa,2007-08-13,Resistant,Sensitive,A
+Pnc_186,South Africa,2018-11-27,Resistant,Resistant,B
+Pnc_187,USA,2007-12-04,Sensitive,Resistant,A
+Pnc_188,USA,2017-10-23,Resistant,Resistant,B
+Pnc_189,USA,2014-02-23,Sensitive,Resistant,B
+Pnc_190,South Africa,2005-04-18,Resistant,Sensitive,A
+Pnc_191,USA,2012-02-07,Sensitive,Sensitive,B
+Pnc_192,South Africa,2018-11-02,Resistant,Sensitive,B
+Pnc_193,South Africa,2008-08-12,Sensitive,Sensitive,B
+Pnc_194,South Africa,2010-05-02,Resistant,Sensitive,A
+Pnc_195,South Africa,2019-09-17,Resistant,Sensitive,A
+Pnc_196,USA,2018-02-17,Sensitive,Sensitive,A
+Pnc_197,USA,2000-05-12,Resistant,Resistant,A
+Pnc_198,South Africa,2013-04-15,Sensitive,Sensitive,A
+Pnc_199,South Africa,2003-11-10,Resistant,Sensitive,A
+Pnc_200,South Africa,2011-04-17,Sensitive,Sensitive,B
+Pnc_201,USA,2001-12-06,Sensitive,Resistant,B
+Pnc_202,USA,2004-07-22,Resistant,Resistant,A
+Pnc_203,USA,2000-09-08,Sensitive,Resistant,A
+Pnc_204,USA,2007-09-02,Sensitive,Sensitive,A
+Pnc_205,USA,2015-08-09,Sensitive,Resistant,B
+Pnc_206,South Africa,2014-11-03,Resistant,Sensitive,A
+Pnc_207,USA,2017-12-12,Sensitive,Resistant,B
+Pnc_208,South Africa,2005-04-27,Resistant,Sensitive,B
+Pnc_209,South Africa,2011-07-20,Sensitive,Resistant,B
+Pnc_210,South Africa,2011-06-06,Sensitive,Sensitive,B
+Pnc_211,South Africa,2004-04-26,Sensitive,Sensitive,A
+Pnc_212,South Africa,2017-04-17,Resistant,Sensitive,A
+Pnc_213,South Africa,2011-12-05,Resistant,Sensitive,B
+Pnc_214,USA,2000-06-23,Sensitive,Sensitive,A
+Pnc_215,USA,2003-07-08,Sensitive,Resistant,A
+Pnc_216,South Africa,2020-08-03,Sensitive,Sensitive,A
+Pnc_217,South Africa,2009-10-09,Sensitive,Sensitive,A
+Pnc_218,USA,2001-05-24,Sensitive,Resistant,B
+Pnc_219,USA,2009-03-09,Sensitive,Resistant,B
+Pnc_220,USA,2002-02-21,Sensitive,Resistant,B
+Pnc_221,South Africa,2011-02-08,Sensitive,Resistant,B
+Pnc_222,USA,2012-07-13,Sensitive,Sensitive,A
+Pnc_223,South Africa,2018-07-23,Resistant,Sensitive,A
+Pnc_224,USA,2005-05-26,Resistant,Sensitive,B
+Pnc_225,South Africa,2017-02-19,Sensitive,Sensitive,B
+Pnc_226,South Africa,2003-07-03,Sensitive,Sensitive,A
+Pnc_227,USA,2001-03-05,Sensitive,Resistant,A
+Pnc_228,USA,2020-04-02,Sensitive,Resistant,B
+Pnc_229,USA,2018-09-23,Sensitive,Sensitive,B
+Pnc_230,South Africa,2000-08-10,Resistant,Sensitive,A
+Pnc_231,USA,2012-09-07,Sensitive,Sensitive,B
+Pnc_232,South Africa,2008-02-24,Sensitive,Sensitive,A
+Pnc_233,South Africa,2014-08-31,Resistant,Sensitive,B
+Pnc_234,South Africa,2013-12-01,Resistant,Sensitive,B
+Pnc_235,South Africa,2013-11-03,Sensitive,Sensitive,B
+Pnc_236,South Africa,2015-03-11,Sensitive,Sensitive,A
+Pnc_237,South Africa,2020-03-23,Sensitive,Sensitive,A
+Pnc_238,USA,2010-04-07,Sensitive,Sensitive,B
+Pnc_239,South Africa,2004-07-17,Resistant,Sensitive,B
+Pnc_240,USA,2011-09-13,Sensitive,Resistant,B
+Pnc_241,USA,2000-05-21,Sensitive,Sensitive,A
+Pnc_242,South Africa,2005-08-06,Sensitive,Sensitive,A
+Pnc_243,South Africa,2002-05-14,Sensitive,Sensitive,B
+Pnc_244,USA,2014-05-24,Sensitive,Sensitive,B
+Pnc_245,USA,2001-11-19,Sensitive,Sensitive,B
+Pnc_246,South Africa,2011-09-12,Sensitive,Sensitive,A
+Pnc_247,USA,2005-03-01,Sensitive,Resistant,B
+Pnc_248,USA,2006-10-20,Sensitive,Sensitive,B
+Pnc_249,South Africa,2018-08-16,Sensitive,Sensitive,B
+Pnc_250,USA,2017-12-07,Sensitive,Resistant,B
+Pnc_251,South Africa,2012-04-15,Sensitive,Resistant,A
+Pnc_252,South Africa,2017-03-24,Resistant,Sensitive,B
+Pnc_253,South Africa,2020-11-13,Sensitive,Sensitive,A
+Pnc_254,USA,2016-05-03,Sensitive,Resistant,B
+Pnc_255,South Africa,2002-08-15,Resistant,Sensitive,A
+Pnc_256,USA,2001-01-11,Sensitive,Resistant,A
+Pnc_257,USA,2001-11-07,Sensitive,Sensitive,A
+Pnc_258,South Africa,2000-05-03,Sensitive,Sensitive,B
+Pnc_259,South Africa,2007-05-23,Sensitive,Sensitive,B
+Pnc_260,USA,2000-06-19,Sensitive,Resistant,B
+Pnc_261,USA,2005-03-16,Sensitive,Resistant,B
+Pnc_262,USA,2006-10-25,Resistant,Sensitive,A
+Pnc_263,USA,2011-04-18,Sensitive,Sensitive,B
+Pnc_264,USA,2003-05-23,Sensitive,Sensitive,A
+Pnc_265,South Africa,2004-08-31,Sensitive,Sensitive,A
+Pnc_266,USA,2003-04-27,Resistant,Sensitive,A
+Pnc_267,USA,2003-08-23,Sensitive,Sensitive,A
+Pnc_268,South Africa,2005-06-01,Sensitive,Sensitive,B
+Pnc_269,USA,2004-01-15,Sensitive,Resistant,A
+Pnc_270,South Africa,2006-04-16,Sensitive,Sensitive,A
+Pnc_271,USA,2005-05-06,Sensitive,Resistant,B
+Pnc_272,USA,2016-06-10,Sensitive,Sensitive,B
+Pnc_273,South Africa,2008-04-07,Sensitive,Sensitive,A
+Pnc_274,South Africa,2019-06-18,Sensitive,Sensitive,A
+Pnc_275,South Africa,2013-06-14,Resistant,Sensitive,A
+Pnc_276,South Africa,2009-04-18,Sensitive,Sensitive,B
+Pnc_277,USA,2014-11-06,Resistant,Resistant,B
+Pnc_278,South Africa,2006-01-18,Resistant,Sensitive,A
+Pnc_279,South Africa,2014-08-14,Resistant,Sensitive,B
+Pnc_280,USA,2011-12-20,Sensitive,Resistant,B
+Pnc_281,South Africa,2006-06-02,Resistant,Resistant,A
+Pnc_282,South Africa,2018-08-04,Sensitive,Resistant,A
+Pnc_283,South Africa,2008-04-28,Resistant,Sensitive,A
+Pnc_284,South Africa,2000-12-25,Resistant,Resistant,B
+Pnc_285,USA,2017-06-08,Sensitive,Sensitive,B
+Pnc_286,South Africa,2001-08-04,Sensitive,Resistant,B
+Pnc_287,USA,2014-10-19,Sensitive,Sensitive,B
+Pnc_288,USA,2018-01-11,Sensitive,Resistant,B
+Pnc_289,USA,2000-07-15,Sensitive,Sensitive,B
+Pnc_290,USA,2000-01-23,Sensitive,Sensitive,B
+Pnc_291,USA,2007-02-27,Resistant,Sensitive,B
+Pnc_292,South Africa,2016-12-30,Resistant,Sensitive,A
+Pnc_293,USA,2016-10-04,Sensitive,Resistant,B
+Pnc_294,USA,2017-08-13,Sensitive,Sensitive,B
+Pnc_295,South Africa,2011-11-13,Sensitive,Sensitive,A
+Pnc_296,South Africa,2006-03-12,Sensitive,Sensitive,B
+Pnc_297,USA,2012-07-29,Sensitive,Resistant,B
+Pnc_298,USA,2004-03-15,Sensitive,Sensitive,A
+Pnc_299,South Africa,2011-06-03,Sensitive,Sensitive,B
+Pnc_300,USA,2013-01-18,Sensitive,Sensitive,B
+Pnc_301,USA,2005-02-19,Sensitive,Resistant,B
+Pnc_302,South Africa,2014-07-08,Resistant,Sensitive,B
+Pnc_303,South Africa,2001-02-22,Sensitive,Sensitive,B
+Pnc_304,South Africa,2016-09-18,Resistant,Sensitive,B
+Pnc_305,USA,2008-05-03,Sensitive,Sensitive,B
+Pnc_306,USA,2002-07-22,Sensitive,Resistant,A
+Pnc_307,South Africa,2008-10-24,Resistant,Resistant,B
+Pnc_308,USA,2014-05-11,Sensitive,Resistant,B
+Pnc_309,USA,2007-03-18,Sensitive,Resistant,B
+Pnc_310,USA,2020-08-28,Sensitive,Sensitive,A
+Pnc_311,South Africa,2006-09-04,Sensitive,Sensitive,A
+Pnc_312,USA,2000-12-09,Sensitive,Sensitive,B
+Pnc_313,USA,2007-01-09,Resistant,Sensitive,B
+Pnc_314,South Africa,2010-11-09,Resistant,Sensitive,A
+Pnc_315,USA,2004-04-20,Sensitive,Sensitive,A
+Pnc_316,South Africa,2001-12-07,Sensitive,Sensitive,A
+Pnc_317,South Africa,2016-12-12,Sensitive,Sensitive,B
+Pnc_318,South Africa,2006-10-01,Resistant,Sensitive,B
+Pnc_319,South Africa,2009-06-13,Sensitive,Resistant,A
+Pnc_320,USA,2000-04-04,Sensitive,Sensitive,B
+Pnc_321,South Africa,2013-09-11,Resistant,Sensitive,B
+Pnc_322,USA,2009-01-31,Resistant,Sensitive,A
+Pnc_323,USA,2016-09-16,Sensitive,Resistant,B
+Pnc_324,South Africa,2015-04-22,Sensitive,Sensitive,B
+Pnc_325,South Africa,2016-01-13,Resistant,Sensitive,A
+Pnc_326,USA,2008-05-23,Sensitive,Resistant,B
+Pnc_327,South Africa,2011-05-17,Resistant,Sensitive,B
+Pnc_328,South Africa,2019-05-31,Resistant,Sensitive,A
+Pnc_329,USA,2007-04-11,Sensitive,Sensitive,B
+Pnc_330,USA,2002-03-27,Sensitive,Sensitive,B
+Pnc_331,South Africa,2005-10-04,Resistant,Sensitive,B
+Pnc_332,USA,2020-12-21,Sensitive,Sensitive,B
+Pnc_333,USA,2000-05-16,Sensitive,Resistant,B
+Pnc_334,South Africa,2018-04-13,Sensitive,Sensitive,A
+Pnc_335,South Africa,2007-07-12,Sensitive,Sensitive,B
+Pnc_336,South Africa,2019-07-13,Resistant,Sensitive,B
+Pnc_337,USA,2007-05-17,Sensitive,Resistant,B
+Pnc_338,South Africa,2019-08-01,Resistant,Sensitive,B
+Pnc_339,South Africa,2007-12-24,Sensitive,Resistant,A
+Pnc_340,USA,2018-08-10,Sensitive,Sensitive,B
+Pnc_341,South Africa,2020-12-03,Sensitive,Sensitive,B
+Pnc_342,South Africa,2013-06-16,Sensitive,Resistant,A
+Pnc_343,USA,2005-05-02,Sensitive,Sensitive,A
+Pnc_344,South Africa,2002-12-12,Sensitive,Resistant,B
+Pnc_345,USA,2005-04-15,Sensitive,Resistant,A
+Pnc_346,USA,2007-08-27,Sensitive,Resistant,B
+Pnc_347,USA,2020-03-31,Sensitive,Resistant,B
+Pnc_348,South Africa,2014-07-22,Sensitive,Sensitive,B
+Pnc_349,South Africa,2020-01-26,Sensitive,Sensitive,B
+Pnc_350,South Africa,2009-04-05,Resistant,Sensitive,A
+Pnc_351,USA,2001-03-06,Sensitive,Sensitive,B
+Pnc_352,South Africa,2003-02-26,Sensitive,Sensitive,B
+Pnc_353,USA,2019-09-29,Resistant,Resistant,B
+Pnc_354,South Africa,2011-10-10,Sensitive,Sensitive,A
+Pnc_355,South Africa,2016-07-15,Resistant,Sensitive,A
+Pnc_356,South Africa,2007-11-14,Resistant,Sensitive,B
+Pnc_357,USA,2015-04-10,Sensitive,Sensitive,B
+Pnc_358,South Africa,2019-10-30,Sensitive,Sensitive,B
+Pnc_359,South Africa,2012-09-03,Sensitive,Sensitive,B
+Pnc_360,South Africa,2002-10-03,Sensitive,Sensitive,A
+Pnc_361,South Africa,2002-03-19,Resistant,Sensitive,B
+Pnc_362,USA,2007-04-16,Sensitive,Sensitive,B
+Pnc_363,South Africa,2014-11-21,Sensitive,Sensitive,B
+Pnc_364,USA,2002-07-30,Sensitive,Resistant,B
+Pnc_365,USA,2016-01-22,Sensitive,Resistant,B
+Pnc_366,South Africa,2017-12-01,Sensitive,Resistant,B
+Pnc_367,USA,2018-09-07,Sensitive,Resistant,B
+Pnc_368,South Africa,2015-12-17,Sensitive,Sensitive,B
+Pnc_369,South Africa,2001-04-18,Resistant,Sensitive,A
+Pnc_370,South Africa,2017-12-04,Resistant,Resistant,B
+Pnc_371,South Africa,2015-03-14,Sensitive,Resistant,A
+Pnc_372,South Africa,2018-10-24,Sensitive,Sensitive,B
+Pnc_373,South Africa,2013-01-05,Sensitive,Sensitive,A
+Pnc_374,USA,2015-08-03,Sensitive,Resistant,B
+Pnc_375,USA,2003-09-09,Sensitive,Resistant,B
+Pnc_376,USA,2003-10-24,Sensitive,Resistant,A
+Pnc_377,USA,2003-06-10,Sensitive,Sensitive,A
+Pnc_378,USA,2012-12-26,Sensitive,Sensitive,B
+Pnc_379,South Africa,2005-11-12,Sensitive,Sensitive,B
+Pnc_380,USA,2015-02-21,Sensitive,Resistant,B
+Pnc_381,South Africa,2005-02-04,Sensitive,Sensitive,A
+Pnc_382,USA,2007-12-09,Sensitive,Sensitive,B
+Pnc_383,USA,2002-07-19,Sensitive,Sensitive,B
+Pnc_384,USA,2012-02-16,Sensitive,Resistant,B
+Pnc_385,USA,2014-08-06,Sensitive,Sensitive,B
+Pnc_386,South Africa,2014-10-24,Sensitive,Sensitive,B
+Pnc_387,USA,2006-10-28,Sensitive,Resistant,A
+Pnc_388,South Africa,2007-10-25,Sensitive,Sensitive,B
+Pnc_389,South Africa,2008-08-31,Resistant,Sensitive,B
+Pnc_390,USA,2008-10-25,Sensitive,Sensitive,A
+Pnc_391,USA,2012-10-31,Sensitive,Sensitive,B
+Pnc_392,USA,2006-10-23,Resistant,Sensitive,A
+Pnc_393,USA,2008-10-03,Sensitive,Resistant,B
+Pnc_394,South Africa,2013-10-27,Resistant,Sensitive,A
+Pnc_395,South Africa,2020-02-24,Sensitive,Sensitive,A
+Pnc_396,USA,2006-04-07,Sensitive,Resistant,A
+Pnc_397,USA,2008-04-30,Sensitive,Sensitive,A
+Pnc_398,South Africa,2002-12-04,Resistant,Sensitive,A
+Pnc_399,USA,2002-08-07,Sensitive,Resistant,A
+Pnc_400,USA,2009-09-25,Resistant,Sensitive,A
+Pnc_401,South Africa,2016-02-03,Sensitive,Sensitive,A
+Pnc_402,South Africa,2012-04-16,Sensitive,Sensitive,B
+Pnc_403,South Africa,2014-02-21,Resistant,Sensitive,A
+Pnc_404,USA,2009-06-29,Sensitive,Resistant,B
+Pnc_405,South Africa,2020-12-14,Sensitive,Sensitive,A
+Pnc_406,South Africa,2011-12-17,Resistant,Sensitive,A
+Pnc_407,USA,2015-01-18,Sensitive,Resistant,B
+Pnc_408,South Africa,2002-07-01,Resistant,Sensitive,B
+Pnc_409,USA,2002-12-13,Sensitive,Resistant,A
+Pnc_410,USA,2011-11-21,Sensitive,Resistant,B
+Pnc_411,USA,2014-04-21,Sensitive,Resistant,B
+Pnc_412,USA,2015-11-14,Sensitive,Resistant,B
+Pnc_413,South Africa,2017-03-01,Resistant,Sensitive,B
+Pnc_414,USA,2018-10-04,Sensitive,Sensitive,B
+Pnc_415,USA,2012-09-15,Sensitive,Sensitive,B
+Pnc_416,South Africa,2004-12-23,Sensitive,Sensitive,A
+Pnc_417,South Africa,2004-07-25,Resistant,Sensitive,B
+Pnc_418,South Africa,2019-10-24,Sensitive,Sensitive,A
+Pnc_419,South Africa,2020-11-08,Sensitive,Sensitive,B
+Pnc_420,South Africa,2013-09-13,Resistant,Resistant,A
+Pnc_421,USA,2011-04-29,Sensitive,Sensitive,B
+Pnc_422,USA,2000-05-09,Sensitive,Resistant,A
+Pnc_423,South Africa,2016-11-14,Resistant,Sensitive,A
+Pnc_424,USA,2018-04-19,Sensitive,Sensitive,B
+Pnc_425,USA,2012-06-06,Sensitive,Sensitive,A
+Pnc_426,USA,2015-10-13,Sensitive,Resistant,B
+Pnc_427,South Africa,2005-09-15,Sensitive,Sensitive,B
+Pnc_428,South Africa,2016-01-07,Sensitive,Sensitive,A
+Pnc_429,South Africa,2006-04-09,Resistant,Sensitive,A
+Pnc_430,South Africa,2019-02-02,Resistant,Resistant,B
+Pnc_431,USA,2002-04-18,Sensitive,Sensitive,A
+Pnc_432,USA,2018-11-05,Sensitive,Sensitive,B
+Pnc_433,USA,2009-01-20,Sensitive,Sensitive,B
+Pnc_434,South Africa,2001-04-14,Sensitive,Sensitive,B
+Pnc_435,USA,2003-07-26,Sensitive,Resistant,A
+Pnc_436,South Africa,2000-09-02,Sensitive,Sensitive,B
+Pnc_437,South Africa,2010-10-18,Resistant,Sensitive,B
+Pnc_438,South Africa,2001-06-05,Sensitive,Sensitive,A
+Pnc_439,South Africa,2015-04-04,Sensitive,Sensitive,A
+Pnc_440,USA,2013-09-02,Resistant,Sensitive,B
+Pnc_441,South Africa,2004-06-04,Resistant,Sensitive,B
+Pnc_442,South Africa,2002-09-21,Sensitive,Resistant,B
+Pnc_443,South Africa,2012-01-18,Sensitive,Sensitive,A
+Pnc_444,South Africa,2003-03-21,Sensitive,Sensitive,B
+Pnc_445,USA,2006-11-01,Resistant,Resistant,B
+Pnc_446,South Africa,2012-05-19,Resistant,Sensitive,A
+Pnc_447,South Africa,2013-04-26,Resistant,Sensitive,A
+Pnc_448,South Africa,2016-01-20,Sensitive,Sensitive,A
+Pnc_449,USA,2016-01-11,Sensitive,Sensitive,B
+Pnc_450,USA,2010-08-26,Resistant,Resistant,B
+Pnc_451,South Africa,2002-08-23,Resistant,Sensitive,A
+Pnc_452,South Africa,2006-06-14,Resistant,Sensitive,B
+Pnc_453,South Africa,2013-10-17,Sensitive,Sensitive,A
+Pnc_454,USA,2014-03-16,Sensitive,Resistant,B
+Pnc_455,South Africa,2008-10-20,Resistant,Sensitive,B
+Pnc_456,USA,2008-07-13,Resistant,Resistant,B
+Pnc_457,South Africa,2016-12-11,Resistant,Sensitive,A
+Pnc_458,USA,2009-03-31,Sensitive,Sensitive,A
+Pnc_459,South Africa,2020-04-01,Resistant,Sensitive,A
+Pnc_460,South Africa,2009-03-20,Resistant,Sensitive,A
+Pnc_461,South Africa,2017-12-27,Resistant,Sensitive,A
+Pnc_462,USA,2003-07-13,Sensitive,Resistant,A
+Pnc_463,South Africa,2016-04-03,Sensitive,Sensitive,B
+Pnc_464,USA,2017-01-24,Sensitive,Sensitive,B
+Pnc_465,USA,2007-09-29,Sensitive,Sensitive,B
+Pnc_466,USA,2010-07-21,Resistant,Sensitive,B
+Pnc_467,South Africa,2004-08-14,Resistant,Sensitive,A
+Pnc_468,South Africa,2011-06-08,Sensitive,Sensitive,B
+Pnc_469,South Africa,2015-10-03,Resistant,Sensitive,B
+Pnc_470,USA,2008-03-03,Sensitive,Resistant,B
+Pnc_471,South Africa,2005-10-29,Sensitive,Sensitive,A
+Pnc_472,USA,2019-10-11,Sensitive,Sensitive,B
+Pnc_473,South Africa,2003-07-15,Resistant,Sensitive,A
+Pnc_474,USA,2013-06-02,Sensitive,Sensitive,B
+Pnc_475,USA,2009-05-28,Sensitive,Sensitive,B
+Pnc_476,USA,2008-01-05,Sensitive,Resistant,B
+Pnc_477,South Africa,2020-07-06,Resistant,Sensitive,A
+Pnc_478,USA,2014-07-31,Sensitive,Resistant,B
+Pnc_479,South Africa,2009-10-28,Resistant,Resistant,A
+Pnc_480,South Africa,2020-01-05,Resistant,Sensitive,B
+Pnc_481,South Africa,2007-11-19,Resistant,Resistant,A
+Pnc_482,USA,2017-02-26,Sensitive,Resistant,B
+Pnc_483,USA,2012-01-02,Sensitive,Sensitive,B
+Pnc_484,USA,2013-10-05,Sensitive,Resistant,B
+Pnc_485,USA,2007-03-14,Sensitive,Sensitive,A
+Pnc_486,USA,2009-10-02,Sensitive,Sensitive,A
+Pnc_487,South Africa,2015-09-05,Sensitive,Sensitive,B
+Pnc_488,South Africa,2000-02-13,Sensitive,Sensitive,A
+Pnc_489,South Africa,2002-04-26,Resistant,Sensitive,B
+Pnc_490,South Africa,2008-02-18,Sensitive,Sensitive,B
+Pnc_491,South Africa,2010-02-25,Sensitive,Sensitive,B
+Pnc_492,South Africa,2017-03-17,Resistant,Sensitive,A
+Pnc_493,South Africa,2018-12-24,Resistant,Sensitive,A
+Pnc_494,USA,2019-09-10,Sensitive,Sensitive,B
+Pnc_495,USA,2009-01-10,Sensitive,Resistant,A
+Pnc_496,South Africa,2009-08-11,Resistant,Sensitive,A
+Pnc_497,South Africa,2010-03-03,Sensitive,Sensitive,B
+Pnc_498,USA,2008-07-14,Sensitive,Resistant,A
+Pnc_499,South Africa,2018-05-24,Sensitive,Sensitive,A
+Pnc_500,South Africa,2007-11-24,Resistant,Sensitive,A
+Pnc_501,USA,2019-05-27,Sensitive,Sensitive,B
+Pnc_502,USA,2011-10-29,Sensitive,Sensitive,B
+Pnc_503,USA,2007-07-11,Sensitive,Sensitive,B
+Pnc_504,South Africa,2013-01-13,Resistant,Sensitive,B
+Pnc_505,South Africa,2006-04-20,Sensitive,Sensitive,B
+Pnc_506,USA,2012-01-10,Sensitive,Sensitive,B
+Pnc_507,South Africa,2020-12-15,Sensitive,Sensitive,B
+Pnc_508,South Africa,2013-08-05,Sensitive,Sensitive,B
+Pnc_509,South Africa,2001-11-13,Sensitive,Sensitive,B
+Pnc_510,USA,2005-07-04,Sensitive,Resistant,B
+Pnc_511,USA,2016-03-02,Sensitive,Resistant,B
+Pnc_512,USA,2003-07-21,Sensitive,Resistant,A
+Pnc_513,USA,2019-01-08,Sensitive,Sensitive,B
+Pnc_514,South Africa,2003-06-20,Sensitive,Resistant,B
+Pnc_515,USA,2004-02-20,Sensitive,Resistant,A
+Pnc_516,USA,2006-10-03,Sensitive,Sensitive,B
+Pnc_517,South Africa,2014-02-05,Resistant,Resistant,A
+Pnc_518,South Africa,2004-10-21,Resistant,Sensitive,B
+Pnc_519,South Africa,2012-11-12,Resistant,Sensitive,B
+Pnc_520,USA,2006-06-24,Resistant,Sensitive,A
+Pnc_521,USA,2000-02-29,Sensitive,Resistant,A
+Pnc_522,USA,2004-08-07,Sensitive,Resistant,B
+Pnc_523,South Africa,2017-08-17,Sensitive,Sensitive,A
+Pnc_524,South Africa,2007-10-27,Resistant,Sensitive,B
+Pnc_525,South Africa,2018-07-31,Sensitive,Sensitive,A
+Pnc_526,South Africa,2010-02-02,Sensitive,Sensitive,B
+Pnc_527,South Africa,2020-01-22,Sensitive,Sensitive,A
+Pnc_528,USA,2015-03-30,Sensitive,Resistant,A
+Pnc_529,USA,2010-11-12,Sensitive,Sensitive,B
+Pnc_530,South Africa,2005-08-18,Resistant,Sensitive,A
+Pnc_531,USA,2012-03-20,Sensitive,Resistant,B
+Pnc_532,USA,2005-05-08,Sensitive,Sensitive,B
+Pnc_533,South Africa,2013-12-31,Sensitive,Sensitive,B
+Pnc_534,South Africa,2005-06-06,Sensitive,Sensitive,A
+Pnc_535,South Africa,2013-12-28,Resistant,Sensitive,B
+Pnc_536,South Africa,2010-07-18,Resistant,Sensitive,B
+Pnc_537,South Africa,2010-06-11,Resistant,Sensitive,A
+Pnc_538,USA,2016-11-07,Sensitive,Sensitive,B
+Pnc_539,South Africa,2016-12-01,Resistant,Sensitive,B
+Pnc_540,USA,2010-05-27,Sensitive,Sensitive,B
+Pnc_541,South Africa,2016-06-02,Resistant,Resistant,B
+Pnc_542,South Africa,2015-12-05,Resistant,Resistant,B
+Pnc_543,USA,2006-08-18,Sensitive,Resistant,A
+Pnc_544,South Africa,2006-04-04,Resistant,Sensitive,A
+Pnc_545,USA,2003-09-17,Sensitive,Sensitive,A
+Pnc_546,South Africa,2019-06-11,Sensitive,Sensitive,B
+Pnc_547,South Africa,2004-07-15,Sensitive,Sensitive,B
+Pnc_548,South Africa,2011-06-25,Resistant,Sensitive,B
+Pnc_549,South Africa,2004-08-19,Sensitive,Sensitive,A
+Pnc_550,USA,2011-02-18,Sensitive,Sensitive,B
+Pnc_551,South Africa,2018-07-02,Resistant,Sensitive,A
+Pnc_552,USA,2018-07-09,Sensitive,Sensitive,B
+Pnc_553,USA,2000-05-05,Sensitive,Resistant,A
+Pnc_554,USA,2020-12-23,Sensitive,Sensitive,B
+Pnc_555,USA,2020-01-18,Sensitive,Sensitive,B
+Pnc_556,South Africa,2011-05-02,Sensitive,Sensitive,A
+Pnc_557,South Africa,2007-03-25,Resistant,Sensitive,A
+Pnc_558,South Africa,2003-01-19,Resistant,Resistant,A
+Pnc_559,USA,2007-02-01,Sensitive,Sensitive,A
+Pnc_560,South Africa,2015-12-27,Sensitive,Resistant,A
+Pnc_561,South Africa,2001-07-01,Resistant,Sensitive,A
+Pnc_562,South Africa,2011-02-02,Sensitive,Sensitive,B
+Pnc_563,South Africa,2010-12-31,Sensitive,Sensitive,A
+Pnc_564,South Africa,2011-11-18,Sensitive,Sensitive,A
+Pnc_565,South Africa,2020-09-29,Resistant,Resistant,A
+Pnc_566,South Africa,2019-06-25,Sensitive,Sensitive,A
+Pnc_567,South Africa,2015-03-12,Sensitive,Sensitive,A
+Pnc_568,USA,2007-06-02,Resistant,Resistant,A
+Pnc_569,USA,2001-11-08,Sensitive,Resistant,A
+Pnc_570,South Africa,2017-08-26,Resistant,Sensitive,B
+Pnc_571,USA,2014-02-04,Sensitive,Resistant,B
+Pnc_572,South Africa,2009-05-08,Sensitive,Sensitive,A
+Pnc_573,USA,2019-12-08,Sensitive,Sensitive,B
+Pnc_574,USA,2015-08-24,Sensitive,Sensitive,B
+Pnc_575,South Africa,2008-06-06,Resistant,Sensitive,B
+Pnc_576,USA,2002-02-04,Sensitive,Sensitive,A
+Pnc_577,USA,2005-08-27,Sensitive,Sensitive,A
+Pnc_578,South Africa,2011-04-10,Resistant,Resistant,A
+Pnc_579,USA,2015-05-24,Sensitive,Sensitive,B
+Pnc_580,South Africa,2002-02-06,Sensitive,Sensitive,A
+Pnc_581,South Africa,2002-06-18,Sensitive,Sensitive,A
+Pnc_582,USA,2013-12-14,Sensitive,Resistant,B
+Pnc_583,South Africa,2009-11-25,Resistant,Sensitive,A
+Pnc_584,South Africa,2018-11-09,Sensitive,Sensitive,A
+Pnc_585,South Africa,2011-12-31,Resistant,Sensitive,B
+Pnc_586,USA,2002-03-07,Sensitive,Sensitive,B
+Pnc_587,USA,2007-06-11,Sensitive,Sensitive,B
+Pnc_588,South Africa,2000-09-03,Sensitive,Sensitive,B
+Pnc_589,USA,2019-11-19,Sensitive,Resistant,B
+Pnc_590,South Africa,2006-04-05,Resistant,Sensitive,B
+Pnc_591,South Africa,2002-11-02,Sensitive,Sensitive,B
+Pnc_592,USA,2018-12-09,Resistant,Resistant,B
+Pnc_593,South Africa,2009-03-16,Sensitive,Sensitive,A
+Pnc_594,South Africa,2000-02-16,Sensitive,Sensitive,A
+Pnc_595,South Africa,2014-03-08,Resistant,Sensitive,A
+Pnc_596,USA,2015-02-17,Sensitive,Resistant,B
+Pnc_597,USA,2004-08-23,Sensitive,Sensitive,B
+Pnc_598,South Africa,2003-01-17,Sensitive,Sensitive,A
+Pnc_599,South Africa,2015-04-11,Sensitive,Sensitive,A
+Pnc_600,USA,2001-06-03,Sensitive,Resistant,A
+Pnc_601,USA,2007-09-19,Sensitive,Sensitive,B
+Pnc_602,USA,2015-02-01,Sensitive,Resistant,B
+Pnc_603,South Africa,2001-12-08,Sensitive,Sensitive,B
+Pnc_604,South Africa,2019-11-06,Sensitive,Sensitive,A
+Pnc_605,USA,2005-12-25,Resistant,Resistant,B
+Pnc_606,South Africa,2004-04-17,Sensitive,Sensitive,B
+Pnc_607,South Africa,2010-09-22,Sensitive,Sensitive,A
+Pnc_608,USA,2009-09-06,Sensitive,Sensitive,A
+Pnc_609,USA,2004-11-28,Sensitive,Sensitive,B
+Pnc_610,USA,2012-12-05,Resistant,Sensitive,B
+Pnc_611,USA,2016-03-04,Sensitive,Resistant,B
+Pnc_612,USA,2020-03-07,Resistant,Sensitive,B
+Pnc_613,USA,2005-07-09,Sensitive,Sensitive,B
+Pnc_614,South Africa,2012-11-04,Sensitive,Sensitive,B
+Pnc_615,South Africa,2018-03-06,Sensitive,Sensitive,A
+Pnc_616,USA,2009-01-24,Sensitive,Sensitive,B
+Pnc_617,South Africa,2015-10-14,Resistant,Sensitive,A
+Pnc_618,South Africa,2007-04-29,Sensitive,Sensitive,A
+Pnc_619,South Africa,2020-09-02,Resistant,Sensitive,B
+Pnc_620,South Africa,2010-01-15,Resistant,Sensitive,B
+Pnc_621,South Africa,2018-05-08,Resistant,Sensitive,B
+Pnc_622,USA,2003-09-04,Sensitive,Sensitive,A
+Pnc_623,South Africa,2008-07-16,Sensitive,Sensitive,B
+Pnc_624,South Africa,2001-11-06,Resistant,Sensitive,A
+Pnc_625,USA,2000-05-19,Sensitive,Resistant,A
+Pnc_626,USA,2004-04-25,Sensitive,Sensitive,B
+Pnc_627,USA,2006-05-20,Resistant,Sensitive,A
+Pnc_628,USA,2013-05-02,Sensitive,Sensitive,B
+Pnc_629,USA,2003-02-11,Sensitive,Resistant,A
+Pnc_630,South Africa,2014-02-07,Sensitive,Sensitive,B
+Pnc_631,USA,2017-05-27,Sensitive,Resistant,B
+Pnc_632,USA,2003-06-17,Sensitive,Resistant,B
+Pnc_633,USA,2014-04-09,Sensitive,Sensitive,B
+Pnc_634,South Africa,2011-03-16,Sensitive,Sensitive,A
+Pnc_635,USA,2016-01-12,Sensitive,Sensitive,B
+Pnc_636,South Africa,2000-08-26,Sensitive,Sensitive,A
+Pnc_637,USA,2020-02-17,Sensitive,Resistant,B
+Pnc_638,USA,2011-06-05,Resistant,Sensitive,B
+Pnc_639,USA,2006-04-10,Sensitive,Resistant,B
+Pnc_640,USA,2007-02-11,Resistant,Sensitive,B
+Pnc_641,South Africa,2008-02-17,Sensitive,Sensitive,B
+Pnc_642,South Africa,2013-07-20,Resistant,Sensitive,B
+Pnc_643,South Africa,2009-08-25,Resistant,Sensitive,B
+Pnc_644,South Africa,2015-07-10,Resistant,Sensitive,A
+Pnc_645,USA,2018-06-17,Sensitive,Sensitive,B
+Pnc_646,South Africa,2007-07-02,Resistant,Sensitive,A
+Pnc_647,South Africa,2018-09-24,Resistant,Resistant,B
+Pnc_648,USA,2010-01-05,Resistant,Resistant,B
+Pnc_649,South Africa,2009-11-15,Resistant,Sensitive,B
+Pnc_650,USA,2004-02-26,Sensitive,Resistant,B
+Pnc_651,USA,2009-04-03,Resistant,Sensitive,A
+Pnc_652,South Africa,2007-03-08,Resistant,Sensitive,A
+Pnc_653,USA,2012-02-27,Sensitive,Resistant,B
+Pnc_654,South Africa,2008-01-31,Sensitive,Sensitive,B
+Pnc_655,USA,2012-06-03,Sensitive,Resistant,B
+Pnc_656,South Africa,2019-05-06,Sensitive,Sensitive,B
+Pnc_657,South Africa,2010-08-08,Sensitive,Sensitive,B
+Pnc_658,South Africa,2008-10-23,Sensitive,Sensitive,B
+Pnc_659,South Africa,2013-03-10,Resistant,Sensitive,A
+Pnc_660,USA,2001-08-02,Sensitive,Sensitive,A
+Pnc_661,South Africa,2014-12-11,Resistant,Sensitive,A
+Pnc_662,USA,2000-09-07,Sensitive,Sensitive,A
+Pnc_663,South Africa,2004-04-24,Resistant,Sensitive,A
+Pnc_664,USA,2010-08-13,Sensitive,Resistant,B
+Pnc_665,South Africa,2007-07-18,Sensitive,Sensitive,B
+Pnc_666,South Africa,2020-02-26,Resistant,Sensitive,A
+Pnc_667,South Africa,2020-10-27,Resistant,Sensitive,A
+Pnc_668,South Africa,2016-03-31,Sensitive,Sensitive,B
+Pnc_669,USA,2014-08-03,Sensitive,Sensitive,B
+Pnc_670,USA,2006-04-30,Sensitive,Sensitive,B
+Pnc_671,USA,2013-07-02,Sensitive,Sensitive,B
+Pnc_672,South Africa,2014-05-15,Resistant,Sensitive,B
+Pnc_673,USA,2020-12-20,Sensitive,Resistant,B
+Pnc_674,South Africa,2007-02-20,Resistant,Resistant,A
+Pnc_675,USA,2011-05-12,Sensitive,Sensitive,B
+Pnc_676,South Africa,2002-12-29,Resistant,Resistant,A
+Pnc_677,USA,2006-08-08,Sensitive,Sensitive,A
+Pnc_678,USA,2013-02-25,Sensitive,Resistant,B
+Pnc_679,USA,2009-12-02,Sensitive,Resistant,A
+Pnc_680,USA,2020-06-20,Sensitive,Resistant,B
+Pnc_681,USA,2008-09-25,Sensitive,Sensitive,A
+Pnc_682,USA,2000-04-17,Sensitive,Sensitive,A
+Pnc_683,USA,2007-05-20,Sensitive,Resistant,B
+Pnc_684,South Africa,2001-04-13,Sensitive,Sensitive,A
+Pnc_685,South Africa,2008-09-26,Resistant,Sensitive,A
+Pnc_686,South Africa,2004-01-09,Sensitive,Sensitive,A
+Pnc_687,South Africa,2017-07-26,Sensitive,Sensitive,A
+Pnc_688,South Africa,2009-06-24,Sensitive,Sensitive,B
+Pnc_689,South Africa,2008-07-11,Sensitive,Sensitive,A
+Pnc_690,USA,2013-02-18,Sensitive,Resistant,B
+Pnc_691,USA,2013-02-05,Sensitive,Sensitive,B
+Pnc_692,South Africa,2004-04-30,Sensitive,Sensitive,B
+Pnc_693,South Africa,2003-09-14,Sensitive,Sensitive,A
+Pnc_694,South Africa,2008-11-02,Resistant,Sensitive,B
+Pnc_695,USA,2004-05-16,Sensitive,Sensitive,A
+Pnc_696,South Africa,2003-02-15,Sensitive,Sensitive,A
+Pnc_697,USA,2000-08-08,Sensitive,Resistant,B
+Pnc_698,USA,2003-11-22,Sensitive,Sensitive,A
+Pnc_699,South Africa,2015-04-14,Sensitive,Sensitive,B
+Pnc_700,South Africa,2000-05-26,Resistant,Sensitive,A
+Pnc_701,South Africa,2000-12-01,Resistant,Sensitive,B
+Pnc_702,USA,2008-05-27,Sensitive,Resistant,A
+Pnc_703,USA,2010-09-21,Sensitive,Sensitive,B
+Pnc_704,USA,2019-07-11,Sensitive,Sensitive,B
+Pnc_705,USA,2012-08-24,Sensitive,Resistant,B
+Pnc_706,South Africa,2020-12-12,Resistant,Sensitive,B
+Pnc_707,USA,2003-01-28,Sensitive,Sensitive,B
+Pnc_708,South Africa,2018-10-17,Resistant,Sensitive,A
+Pnc_709,South Africa,2004-09-27,Resistant,Sensitive,B
+Pnc_710,USA,2000-05-30,Sensitive,Resistant,B
+Pnc_711,USA,2000-05-13,Sensitive,Sensitive,B
+Pnc_712,South Africa,2012-08-07,Resistant,Sensitive,B
+Pnc_713,South Africa,2014-07-04,Resistant,Resistant,A
+Pnc_714,USA,2008-12-27,Sensitive,Resistant,B
+Pnc_715,South Africa,2009-08-05,Sensitive,Sensitive,A
+Pnc_716,South Africa,2002-08-04,Sensitive,Sensitive,B
+Pnc_717,USA,2016-01-26,Sensitive,Resistant,B
+Pnc_718,South Africa,2017-11-17,Sensitive,Sensitive,A
+Pnc_719,South Africa,2000-09-01,Sensitive,Sensitive,B
+Pnc_720,South Africa,2018-09-09,Sensitive,Sensitive,A
+Pnc_721,USA,2009-03-27,Sensitive,Sensitive,B
+Pnc_722,South Africa,2006-10-08,Resistant,Resistant,A
+Pnc_723,USA,2001-10-31,Resistant,Sensitive,B
+Pnc_724,South Africa,2008-05-24,Sensitive,Sensitive,A
+Pnc_725,South Africa,2017-11-30,Resistant,Sensitive,A
+Pnc_726,USA,2017-01-16,Sensitive,Sensitive,B
+Pnc_727,USA,2003-04-30,Sensitive,Resistant,A
+Pnc_728,USA,2009-08-04,Sensitive,Resistant,A
+Pnc_729,USA,2007-04-15,Resistant,Sensitive,A
+Pnc_730,South Africa,2012-10-21,Sensitive,Sensitive,A
+Pnc_731,USA,2002-04-11,Sensitive,Resistant,A
+Pnc_732,South Africa,2011-01-11,Sensitive,Sensitive,A
+Pnc_733,USA,2006-11-26,Resistant,Sensitive,A
+Pnc_734,South Africa,2011-06-28,Sensitive,Sensitive,A
+Pnc_735,South Africa,2002-05-22,Sensitive,Sensitive,B
+Pnc_736,South Africa,2018-04-17,Resistant,Sensitive,B
+Pnc_737,USA,2012-04-11,Sensitive,Sensitive,B
+Pnc_738,South Africa,2004-03-14,Sensitive,Sensitive,B
+Pnc_739,USA,2003-07-06,Sensitive,Resistant,B
+Pnc_740,South Africa,2003-01-14,Sensitive,Sensitive,B
+Pnc_741,South Africa,2009-10-19,Sensitive,Sensitive,A
+Pnc_742,South Africa,2003-11-09,Resistant,Sensitive,A
+Pnc_743,South Africa,2005-07-19,Resistant,Sensitive,B
+Pnc_744,USA,2017-12-05,Sensitive,Sensitive,B
+Pnc_745,USA,2004-07-26,Sensitive,Resistant,A
+Pnc_746,USA,2008-09-03,Sensitive,Sensitive,B
+Pnc_747,USA,2008-01-26,Sensitive,Sensitive,B
+Pnc_748,South Africa,2019-07-08,Resistant,Sensitive,A
+Pnc_749,USA,2015-11-09,Resistant,Resistant,B
+Pnc_750,South Africa,2015-04-29,Sensitive,Sensitive,A
+Pnc_751,USA,2011-06-15,Sensitive,Resistant,B
+Pnc_752,South Africa,2013-11-02,Sensitive,Sensitive,B
+Pnc_753,South Africa,2006-01-05,Resistant,Sensitive,A
+Pnc_754,South Africa,2008-06-01,Resistant,Sensitive,A
+Pnc_755,South Africa,2004-01-05,Sensitive,Sensitive,B
+Pnc_756,South Africa,2012-05-11,Resistant,Sensitive,B
+Pnc_757,South Africa,2013-05-19,Sensitive,Sensitive,B
+Pnc_758,USA,2010-01-03,Sensitive,Sensitive,B
+Pnc_759,South Africa,2006-12-04,Resistant,Sensitive,A
+Pnc_760,South Africa,2005-06-26,Resistant,Sensitive,B
+Pnc_761,South Africa,2012-01-12,Resistant,Sensitive,A
+Pnc_762,USA,2016-05-02,Sensitive,Resistant,B
+Pnc_763,South Africa,2013-09-08,Resistant,Sensitive,A
+Pnc_764,South Africa,2011-02-19,Sensitive,Sensitive,A
+Pnc_765,USA,2004-01-12,Sensitive,Sensitive,B
+Pnc_766,South Africa,2018-06-29,Sensitive,Sensitive,B
+Pnc_767,South Africa,2013-06-25,Sensitive,Sensitive,A
+Pnc_768,USA,2004-05-29,Sensitive,Sensitive,B
+Pnc_769,USA,2006-11-19,Sensitive,Sensitive,A
+Pnc_770,USA,2011-04-08,Resistant,Resistant,A
+Pnc_771,South Africa,2009-06-17,Sensitive,Sensitive,A
+Pnc_772,USA,2001-06-28,Sensitive,Sensitive,B
+Pnc_773,USA,2007-08-06,Sensitive,Sensitive,B
+Pnc_774,USA,2007-11-10,Sensitive,Resistant,B
+Pnc_775,USA,2002-09-17,Sensitive,Resistant,A
+Pnc_776,South Africa,2015-08-30,Resistant,Sensitive,B
+Pnc_777,USA,2018-10-14,Sensitive,Resistant,B
+Pnc_778,USA,2001-09-23,Sensitive,Resistant,A
+Pnc_779,South Africa,2010-01-01,Resistant,Sensitive,B
+Pnc_780,USA,2000-10-06,Sensitive,Resistant,B
+Pnc_781,South Africa,2017-09-14,Sensitive,Resistant,B
+Pnc_782,USA,2016-01-28,Sensitive,Resistant,B
+Pnc_783,South Africa,2011-12-22,Sensitive,Sensitive,A
+Pnc_784,USA,2004-06-09,Sensitive,Resistant,B
+Pnc_785,USA,2007-05-05,Resistant,Resistant,B
+Pnc_786,South Africa,2004-11-09,Sensitive,Sensitive,A
+Pnc_787,South Africa,2017-11-18,Resistant,Sensitive,A
+Pnc_788,USA,2009-04-09,Sensitive,Resistant,A
+Pnc_789,South Africa,2013-03-01,Resistant,Sensitive,A
+Pnc_790,USA,2006-01-19,Sensitive,Resistant,A
+Pnc_791,South Africa,2009-06-16,Sensitive,Sensitive,B
+Pnc_792,USA,2015-08-20,Sensitive,Resistant,B
+Pnc_793,South Africa,2002-12-05,Sensitive,Sensitive,B
+Pnc_794,South Africa,2007-01-20,Resistant,Sensitive,A
+Pnc_795,USA,2014-02-28,Sensitive,Resistant,A
+Pnc_796,USA,2004-09-28,Sensitive,Resistant,A
+Pnc_797,USA,2018-07-18,Sensitive,Resistant,B
+Pnc_798,South Africa,2001-11-16,Resistant,Sensitive,A
+Pnc_799,USA,2016-09-01,Sensitive,Sensitive,A
+Pnc_800,South Africa,2013-08-27,Sensitive,Sensitive,A
+Pnc_801,USA,2009-09-12,Sensitive,Sensitive,B
+Pnc_802,USA,2018-10-21,Sensitive,Resistant,B
+Pnc_803,USA,2019-08-14,Sensitive,Sensitive,A
+Pnc_804,South Africa,2019-08-15,Sensitive,Sensitive,A
+Pnc_805,USA,2009-10-25,Sensitive,Sensitive,B
+Pnc_806,South Africa,2010-06-21,Sensitive,Sensitive,A
+Pnc_807,South Africa,2016-09-26,Sensitive,Sensitive,A
+Pnc_808,USA,2001-03-15,Sensitive,Sensitive,A
+Pnc_809,USA,2006-05-03,Sensitive,Sensitive,A
+Pnc_810,USA,2015-10-20,Sensitive,Sensitive,B
+Pnc_811,South Africa,2004-03-01,Resistant,Sensitive,A
+Pnc_812,USA,2000-11-19,Sensitive,Sensitive,B
+Pnc_813,South Africa,2005-06-07,Resistant,Sensitive,A
+Pnc_814,USA,2006-01-01,Sensitive,Sensitive,A
+Pnc_815,South Africa,2013-04-28,Resistant,Sensitive,B
+Pnc_816,USA,2008-09-13,Sensitive,Resistant,A
+Pnc_817,South Africa,2005-01-10,Sensitive,Sensitive,B
+Pnc_818,South Africa,2012-07-12,Sensitive,Sensitive,B
+Pnc_819,South Africa,2010-06-28,Sensitive,Sensitive,B
+Pnc_820,South Africa,2005-02-12,Sensitive,Sensitive,B
+Pnc_821,South Africa,2008-12-12,Sensitive,Sensitive,A
+Pnc_822,USA,2016-12-18,Resistant,Resistant,B
+Pnc_823,USA,2014-12-01,Sensitive,Resistant,B
+Pnc_824,USA,2018-10-26,Sensitive,Sensitive,B
+Pnc_825,USA,2007-01-23,Sensitive,Resistant,A
+Pnc_826,USA,2016-08-19,Resistant,Resistant,B
+Pnc_827,South Africa,2003-06-14,Resistant,Sensitive,A
+Pnc_828,South Africa,2004-05-10,Resistant,Sensitive,A
+Pnc_829,South Africa,2010-09-18,Resistant,Sensitive,A
+Pnc_830,South Africa,2008-04-05,Sensitive,Sensitive,A
+Pnc_831,South Africa,2011-09-16,Sensitive,Resistant,A
+Pnc_832,USA,2008-01-07,Sensitive,Resistant,B
+Pnc_833,USA,2013-07-29,Sensitive,Resistant,B
+Pnc_834,USA,2010-12-03,Sensitive,Sensitive,A
+Pnc_835,South Africa,2012-09-01,Resistant,Sensitive,B
+Pnc_836,South Africa,2007-03-26,Sensitive,Sensitive,A
+Pnc_837,South Africa,2007-08-19,Resistant,Sensitive,B
+Pnc_838,South Africa,2002-11-13,Resistant,Resistant,A
+Pnc_839,South Africa,2018-08-09,Sensitive,Resistant,A
+Pnc_840,USA,2001-09-28,Sensitive,Resistant,A
+Pnc_841,USA,2008-08-10,Sensitive,Sensitive,B
+Pnc_842,South Africa,2011-09-26,Resistant,Sensitive,B
+Pnc_843,South Africa,2006-04-13,Sensitive,Sensitive,B
+Pnc_844,USA,2003-12-25,Sensitive,Sensitive,A
+Pnc_845,USA,2019-09-21,Sensitive,Resistant,B
+Pnc_846,South Africa,2004-01-18,Resistant,Sensitive,A
+Pnc_847,USA,2005-08-31,Resistant,Resistant,A
+Pnc_848,South Africa,2016-08-28,Resistant,Sensitive,B
+Pnc_849,South Africa,2020-08-22,Sensitive,Sensitive,B
+Pnc_850,USA,2005-01-31,Sensitive,Resistant,B
+Pnc_851,USA,2008-11-04,Sensitive,Resistant,A
+Pnc_852,South Africa,2014-07-01,Sensitive,Sensitive,B
+Pnc_853,USA,2000-08-31,Sensitive,Resistant,B
+Pnc_854,South Africa,2008-11-05,Resistant,Sensitive,A
+Pnc_855,USA,2006-03-05,Sensitive,Sensitive,B
+Pnc_856,South Africa,2006-09-01,Sensitive,Sensitive,A
+Pnc_857,South Africa,2003-07-17,Sensitive,Sensitive,A
+Pnc_858,South Africa,2013-03-03,Sensitive,Sensitive,A
+Pnc_859,South Africa,2019-01-31,Resistant,Sensitive,A
+Pnc_860,USA,2006-03-06,Sensitive,Sensitive,A
+Pnc_861,USA,2008-03-28,Sensitive,Resistant,A
+Pnc_862,USA,2001-08-24,Sensitive,Sensitive,A
+Pnc_863,USA,2004-04-07,Sensitive,Resistant,B
+Pnc_864,USA,2015-07-01,Sensitive,Sensitive,B
+Pnc_865,South Africa,2020-05-04,Resistant,Sensitive,B
+Pnc_866,USA,2014-10-15,Sensitive,Resistant,B
+Pnc_867,USA,2011-11-27,Sensitive,Sensitive,B
+Pnc_868,South Africa,2016-10-20,Resistant,Resistant,B
+Pnc_869,South Africa,2013-03-04,Resistant,Sensitive,B
+Pnc_870,South Africa,2015-05-04,Sensitive,Sensitive,A
+Pnc_871,USA,2003-11-20,Sensitive,Sensitive,A
+Pnc_872,South Africa,2016-08-16,Sensitive,Sensitive,B
+Pnc_873,USA,2011-05-06,Sensitive,Sensitive,B
+Pnc_874,USA,2013-11-01,Sensitive,Sensitive,B
+Pnc_875,USA,2013-09-04,Sensitive,Resistant,B
+Pnc_876,South Africa,2017-06-05,Sensitive,Sensitive,B
+Pnc_877,USA,2018-05-23,Sensitive,Resistant,B
+Pnc_878,South Africa,2010-05-09,Sensitive,Sensitive,B
+Pnc_879,USA,2012-12-25,Sensitive,Sensitive,B
+Pnc_880,South Africa,2008-01-25,Sensitive,Sensitive,B
+Pnc_881,USA,2014-01-10,Sensitive,Resistant,B
+Pnc_882,USA,2001-09-01,Sensitive,Sensitive,B
+Pnc_883,South Africa,2016-11-06,Sensitive,Sensitive,A
+Pnc_884,South Africa,2003-01-25,Resistant,Sensitive,A
+Pnc_885,South Africa,2003-06-07,Sensitive,Sensitive,B
+Pnc_886,South Africa,2003-12-31,Resistant,Sensitive,A
+Pnc_887,South Africa,2017-10-31,Resistant,Sensitive,B
+Pnc_888,South Africa,2006-09-06,Sensitive,Sensitive,A
+Pnc_889,South Africa,2017-04-12,Sensitive,Sensitive,A
+Pnc_890,USA,2003-10-15,Sensitive,Resistant,A
+Pnc_891,USA,2006-09-12,Sensitive,Resistant,B
+Pnc_892,USA,2000-04-07,Sensitive,Resistant,B
+Pnc_893,USA,2016-10-07,Sensitive,Resistant,B
+Pnc_894,South Africa,2004-02-03,Sensitive,Sensitive,A
+Pnc_895,South Africa,2012-03-05,Resistant,Sensitive,A
+Pnc_896,South Africa,2007-08-11,Sensitive,Sensitive,A
+Pnc_897,South Africa,2002-04-04,Resistant,Sensitive,B
+Pnc_898,USA,2008-02-02,Sensitive,Sensitive,B
+Pnc_899,USA,2018-01-19,Sensitive,Resistant,B
+Pnc_900,South Africa,2002-02-05,Resistant,Sensitive,B
+Pnc_901,USA,2015-12-26,Sensitive,Resistant,B
+Pnc_902,South Africa,2004-09-15,Resistant,Sensitive,B
+Pnc_903,USA,2019-06-08,Sensitive,Resistant,A
+Pnc_904,USA,2012-08-27,Sensitive,Sensitive,B
+Pnc_905,USA,2007-07-23,Sensitive,Sensitive,A
+Pnc_906,South Africa,2006-05-26,Sensitive,Resistant,A
+Pnc_907,South Africa,2014-02-20,Sensitive,Sensitive,A
+Pnc_908,USA,2002-07-27,Sensitive,Sensitive,B
+Pnc_909,USA,2002-01-08,Sensitive,Sensitive,A
+Pnc_910,South Africa,2015-02-26,Resistant,Sensitive,A
+Pnc_911,USA,2012-01-03,Sensitive,Sensitive,B
+Pnc_912,South Africa,2020-10-11,Sensitive,Sensitive,A
+Pnc_913,USA,2020-12-24,Sensitive,Resistant,B
+Pnc_914,USA,2019-09-06,Sensitive,Sensitive,B
+Pnc_915,USA,2019-09-20,Sensitive,Sensitive,B
+Pnc_916,South Africa,2020-02-15,Resistant,Sensitive,B
+Pnc_917,USA,2001-10-10,Sensitive,Sensitive,A
+Pnc_918,South Africa,2002-06-13,Sensitive,Sensitive,B
+Pnc_919,South Africa,2018-12-25,Sensitive,Sensitive,A
+Pnc_920,USA,2003-02-10,Sensitive,Sensitive,B
+Pnc_921,USA,2013-03-19,Sensitive,Resistant,B
+Pnc_922,USA,2002-05-26,Sensitive,Sensitive,B
+Pnc_923,South Africa,2010-08-24,Resistant,Sensitive,A
+Pnc_924,South Africa,2017-04-29,Resistant,Sensitive,B
+Pnc_925,South Africa,2009-12-13,Resistant,Sensitive,A
+Pnc_926,USA,2018-04-06,Sensitive,Sensitive,B
+Pnc_927,USA,2016-06-22,Sensitive,Sensitive,B
+Pnc_928,USA,2020-02-21,Sensitive,Resistant,B
+Pnc_929,USA,2000-11-08,Sensitive,Sensitive,A
+Pnc_930,South Africa,2014-01-01,Sensitive,Sensitive,B
+Pnc_931,USA,2007-11-08,Resistant,Sensitive,B
+Pnc_932,South Africa,2000-10-20,Resistant,Sensitive,B
+Pnc_933,South Africa,2001-12-01,Sensitive,Sensitive,A
+Pnc_934,South Africa,2004-12-06,Sensitive,Sensitive,A
+Pnc_935,USA,2011-04-04,Sensitive,Resistant,B
+Pnc_936,South Africa,2002-12-30,Sensitive,Sensitive,A
+Pnc_937,USA,2007-08-10,Resistant,Resistant,A
+Pnc_938,South Africa,2007-07-27,Sensitive,Sensitive,B
+Pnc_939,South Africa,2008-09-09,Sensitive,Sensitive,A
+Pnc_940,South Africa,2011-02-26,Sensitive,Sensitive,B
+Pnc_941,USA,2003-01-03,Sensitive,Sensitive,B
+Pnc_942,South Africa,2009-01-29,Resistant,Sensitive,A
+Pnc_943,South Africa,2012-10-14,Sensitive,Sensitive,A
+Pnc_944,USA,2008-08-02,Sensitive,Resistant,B
+Pnc_945,South Africa,2011-03-21,Resistant,Sensitive,A
+Pnc_946,South Africa,2010-12-09,Sensitive,Sensitive,B
+Pnc_947,South Africa,2020-11-23,Resistant,Sensitive,A
+Pnc_948,USA,2005-12-12,Sensitive,Sensitive,B
+Pnc_949,South Africa,2009-01-03,Sensitive,Sensitive,B
+Pnc_950,South Africa,2010-03-18,Resistant,Sensitive,A
+Pnc_951,South Africa,2002-05-03,Sensitive,Resistant,B
+Pnc_952,USA,2002-04-21,Sensitive,Sensitive,B
+Pnc_953,USA,2013-06-01,Sensitive,Resistant,B
+Pnc_954,USA,2015-10-29,Sensitive,Sensitive,B
+Pnc_955,USA,2006-10-10,Sensitive,Resistant,A
+Pnc_956,South Africa,2004-01-16,Resistant,Sensitive,A
+Pnc_957,USA,2015-01-15,Sensitive,Sensitive,B
+Pnc_958,South Africa,2000-03-16,Sensitive,Resistant,A
+Pnc_959,South Africa,2013-07-08,Resistant,Sensitive,B
+Pnc_960,USA,2011-03-27,Sensitive,Sensitive,B
+Pnc_961,South Africa,2000-06-24,Sensitive,Resistant,B
+Pnc_962,USA,2000-10-19,Sensitive,Resistant,A
+Pnc_963,South Africa,2014-12-27,Resistant,Sensitive,B
+Pnc_964,USA,2020-04-25,Sensitive,Resistant,A
+Pnc_965,USA,2015-09-12,Resistant,Resistant,B
+Pnc_966,South Africa,2016-03-16,Resistant,Sensitive,A
+Pnc_967,USA,2001-01-14,Sensitive,Sensitive,A
+Pnc_968,USA,2010-04-28,Sensitive,Resistant,B
+Pnc_969,USA,2003-01-04,Sensitive,Sensitive,B
+Pnc_970,South Africa,2002-08-19,Resistant,Sensitive,A
+Pnc_971,South Africa,2002-04-10,Sensitive,Sensitive,A
+Pnc_972,South Africa,2005-09-11,Sensitive,Sensitive,B
+Pnc_973,USA,2001-09-04,Sensitive,Sensitive,B
+Pnc_974,South Africa,2010-04-04,Sensitive,Sensitive,A
+Pnc_975,USA,2006-08-26,Sensitive,Sensitive,B
+Pnc_976,USA,2002-07-12,Sensitive,Sensitive,A
+Pnc_977,South Africa,2007-10-22,Resistant,Resistant,B
+Pnc_978,South Africa,2012-12-16,Resistant,Sensitive,A
+Pnc_979,USA,2006-06-12,Sensitive,Sensitive,B
+Pnc_980,USA,2014-01-02,Sensitive,Sensitive,B
+Pnc_981,South Africa,2005-08-09,Resistant,Sensitive,A
+Pnc_982,South Africa,2007-04-12,Resistant,Sensitive,A
+Pnc_983,South Africa,2010-09-03,Resistant,Resistant,B
+Pnc_984,South Africa,2019-10-26,Sensitive,Sensitive,A
+Pnc_985,South Africa,2018-01-08,Sensitive,Sensitive,A
+Pnc_986,South Africa,2005-01-26,Sensitive,Sensitive,A
+Pnc_987,South Africa,2000-09-15,Resistant,Sensitive,A
+Pnc_988,USA,2010-06-27,Resistant,Resistant,B
+Pnc_989,South Africa,2014-01-11,Resistant,Sensitive,B
+Pnc_990,USA,2002-01-14,Sensitive,Sensitive,B
+Pnc_991,South Africa,2007-05-29,Resistant,Sensitive,A
+Pnc_992,USA,2007-01-17,Resistant,Resistant,B
+Pnc_993,USA,2018-07-28,Sensitive,Sensitive,B
+Pnc_994,South Africa,2008-05-01,Resistant,Sensitive,A
+Pnc_995,USA,2013-10-13,Resistant,Sensitive,B
+Pnc_996,USA,2001-06-02,Sensitive,Sensitive,A
+Pnc_997,USA,2014-08-28,Sensitive,Resistant,B
+Pnc_998,South Africa,2007-05-10,Resistant,Sensitive,A
+Pnc_999,South Africa,2007-07-31,Sensitive,Sensitive,B
+Pnc_1000,USA,2009-09-04,Sensitive,Resistant,B
+Pnc_1001,USA,2003-03-05,Sensitive,Resistant,A
+Pnc_1002,South Africa,2015-07-19,Resistant,Sensitive,A
+Pnc_1003,USA,2011-11-26,Sensitive,Sensitive,A
+Pnc_1004,USA,2004-06-14,Resistant,Resistant,A
+Pnc_1005,USA,2015-03-28,Resistant,Resistant,B
+Pnc_1006,USA,2008-09-24,Sensitive,Sensitive,A
+Pnc_1007,USA,2017-02-05,Sensitive,Sensitive,A
+Pnc_1008,South Africa,2005-09-14,Resistant,Sensitive,A
+Pnc_1009,USA,2000-09-13,Resistant,Resistant,B
+Pnc_1010,USA,2018-08-11,Sensitive,Sensitive,B
+Pnc_1011,South Africa,2014-08-07,Sensitive,Sensitive,A
+Pnc_1012,USA,2013-05-25,Sensitive,Resistant,B
+Pnc_1013,South Africa,2011-01-19,Resistant,Sensitive,B
+Pnc_1014,South Africa,2020-06-19,Sensitive,Sensitive,B
+Pnc_1015,South Africa,2007-12-12,Resistant,Resistant,B
+Pnc_1016,South Africa,2020-09-22,Resistant,Sensitive,B
+Pnc_1017,USA,2019-04-11,Sensitive,Resistant,A
+Pnc_1018,USA,2016-12-24,Sensitive,Sensitive,B
+Pnc_1019,USA,2010-11-13,Sensitive,Sensitive,B
+Pnc_1020,USA,2004-11-10,Sensitive,Resistant,A
+Pnc_1021,USA,2020-07-03,Sensitive,Resistant,B
+Pnc_1022,USA,2014-10-27,Sensitive,Sensitive,B
+Pnc_1023,South Africa,2002-10-17,Sensitive,Sensitive,B
+Pnc_1024,USA,2008-07-29,Sensitive,Sensitive,A
+Pnc_1025,South Africa,2010-08-20,Sensitive,Sensitive,A
+Pnc_1026,South Africa,2003-03-13,Resistant,Resistant,A
+Pnc_1027,South Africa,2012-12-22,Resistant,Sensitive,A
+Pnc_1028,South Africa,2009-06-09,Sensitive,Sensitive,B
+Pnc_1029,USA,2016-03-30,Sensitive,Resistant,B
+Pnc_1030,USA,2014-01-29,Sensitive,Resistant,B
+Pnc_1031,USA,2017-03-22,Sensitive,Sensitive,B
+Pnc_1032,USA,2003-08-25,Sensitive,Sensitive,B
+Pnc_1033,South Africa,2017-04-22,Resistant,Sensitive,B
+Pnc_1034,USA,2007-05-08,Sensitive,Resistant,B
+Pnc_1035,South Africa,2005-07-27,Resistant,Sensitive,B
+Pnc_1036,South Africa,2006-03-20,Resistant,Resistant,A
+Pnc_1037,USA,2015-09-20,Sensitive,Sensitive,B
+Pnc_1038,South Africa,2006-06-05,Sensitive,Sensitive,B
+Pnc_1039,South Africa,2009-03-22,Sensitive,Sensitive,B
+Pnc_1040,USA,2013-12-12,Sensitive,Sensitive,B
+Pnc_1041,USA,2011-09-06,Sensitive,Sensitive,A
+Pnc_1042,USA,2020-07-27,Sensitive,Resistant,A
+Pnc_1043,USA,2002-03-20,Sensitive,Sensitive,A
+Pnc_1044,South Africa,2005-05-22,Resistant,Sensitive,B
+Pnc_1045,South Africa,2003-05-13,Sensitive,Sensitive,A
+Pnc_1046,USA,2017-03-16,Sensitive,Sensitive,B
+Pnc_1047,USA,2020-09-05,Sensitive,Resistant,B
+Pnc_1048,South Africa,2015-10-08,Resistant,Sensitive,A
+Pnc_1049,USA,2017-05-09,Sensitive,Sensitive,B
+Pnc_1050,South Africa,2012-07-26,Sensitive,Sensitive,A
+Pnc_1051,South Africa,2009-12-15,Sensitive,Sensitive,B
+Pnc_1052,USA,2007-10-19,Sensitive,Resistant,A
+Pnc_1053,USA,2003-03-27,Sensitive,Sensitive,A
+Pnc_1054,South Africa,2012-05-25,Resistant,Sensitive,B
+Pnc_1055,USA,2001-01-05,Sensitive,Resistant,A
+Pnc_1056,USA,2005-11-20,Sensitive,Sensitive,A
+Pnc_1057,South Africa,2020-05-11,Resistant,Sensitive,B
+Pnc_1058,South Africa,2008-03-13,Sensitive,Sensitive,B
+Pnc_1059,South Africa,2008-04-23,Sensitive,Sensitive,B
+Pnc_1060,USA,2008-02-09,Sensitive,Sensitive,B
+Pnc_1061,South Africa,2005-01-09,Sensitive,Sensitive,B
+Pnc_1062,USA,2007-10-11,Sensitive,Resistant,B
+Pnc_1063,USA,2020-02-08,Sensitive,Sensitive,B
+Pnc_1064,South Africa,2005-05-19,Sensitive,Sensitive,B
+Pnc_1065,USA,2003-05-25,Sensitive,Resistant,A
+Pnc_1066,USA,2012-07-04,Sensitive,Resistant,B
+Pnc_1067,South Africa,2016-03-27,Resistant,Resistant,A
+Pnc_1068,South Africa,2015-06-18,Sensitive,Sensitive,A
+Pnc_1069,South Africa,2015-08-31,Resistant,Sensitive,A
+Pnc_1070,South Africa,2012-04-06,Sensitive,Sensitive,A
+Pnc_1071,South Africa,2014-10-10,Sensitive,Sensitive,A
+Pnc_1072,South Africa,2003-06-18,Sensitive,Resistant,B
+Pnc_1073,South Africa,2012-01-04,Sensitive,Sensitive,A
+Pnc_1074,USA,2010-07-05,Sensitive,Resistant,B
+Pnc_1075,South Africa,2012-10-05,Resistant,Sensitive,B
+Pnc_1076,South Africa,2012-06-30,Resistant,Resistant,A
+Pnc_1077,USA,2019-08-27,Sensitive,Resistant,B
+Pnc_1078,South Africa,2008-07-27,Resistant,Sensitive,B
+Pnc_1079,USA,2011-08-07,Sensitive,Resistant,B
+Pnc_1080,USA,2001-08-08,Sensitive,Sensitive,A
+Pnc_1081,USA,2016-02-07,Sensitive,Sensitive,B
+Pnc_1082,USA,2011-07-23,Sensitive,Resistant,A
+Pnc_1083,South Africa,2007-04-07,Sensitive,Sensitive,A
+Pnc_1084,South Africa,2015-11-23,Resistant,Sensitive,B
+Pnc_1085,USA,2006-02-12,Sensitive,Sensitive,A
+Pnc_1086,South Africa,2006-11-14,Sensitive,Sensitive,B
+Pnc_1087,USA,2016-04-29,Sensitive,Resistant,B
+Pnc_1088,South Africa,2000-06-08,Sensitive,Sensitive,B
+Pnc_1089,USA,2000-12-12,Sensitive,Resistant,A
+Pnc_1090,USA,2015-01-06,Sensitive,Resistant,A
+Pnc_1091,USA,2010-04-20,Sensitive,Resistant,B
+Pnc_1092,USA,2003-02-24,Sensitive,Resistant,B
+Pnc_1093,USA,2014-01-14,Sensitive,Resistant,B
+Pnc_1094,South Africa,2015-04-01,Sensitive,Sensitive,A
+Pnc_1095,USA,2020-05-12,Sensitive,Sensitive,B
+Pnc_1096,USA,2005-08-22,Sensitive,Sensitive,A
+Pnc_1097,South Africa,2007-10-14,Resistant,Sensitive,B
+Pnc_1098,USA,2007-04-18,Sensitive,Sensitive,A
+Pnc_1099,South Africa,2015-05-23,Resistant,Sensitive,A
+Pnc_1100,USA,2004-05-11,Resistant,Resistant,B
+Pnc_1101,South Africa,2003-10-16,Resistant,Resistant,A
+Pnc_1102,USA,2011-07-04,Sensitive,Sensitive,B
+Pnc_1103,South Africa,2009-12-07,Resistant,Sensitive,A
+Pnc_1104,South Africa,2005-09-28,Sensitive,Sensitive,B
+Pnc_1105,USA,2013-10-18,Sensitive,Sensitive,B
+Pnc_1106,USA,2009-07-20,Sensitive,Resistant,B
+Pnc_1107,South Africa,2004-09-12,Sensitive,Sensitive,A
+Pnc_1108,USA,2000-02-06,Sensitive,Resistant,B
+Pnc_1109,USA,2013-12-11,Sensitive,Sensitive,B
+Pnc_1110,USA,2019-08-07,Sensitive,Resistant,A
+Pnc_1111,South Africa,2009-04-17,Sensitive,Sensitive,A
+Pnc_1112,South Africa,2008-08-16,Resistant,Sensitive,A
+Pnc_1113,South Africa,2019-01-19,Sensitive,Sensitive,A
+Pnc_1114,South Africa,2010-12-02,Sensitive,Resistant,A
+Pnc_1115,South Africa,2009-08-29,Sensitive,Sensitive,B
+Pnc_1116,USA,2009-01-04,Sensitive,Resistant,B
+Pnc_1117,South Africa,2011-10-24,Sensitive,Resistant,A
+Pnc_1118,USA,2011-07-27,Sensitive,Resistant,B
+Pnc_1119,South Africa,2005-04-25,Resistant,Sensitive,B
+Pnc_1120,USA,2020-03-03,Sensitive,Resistant,B
+Pnc_1121,South Africa,2010-03-08,Sensitive,Sensitive,A
+Pnc_1122,USA,2004-06-07,Sensitive,Sensitive,A
+Pnc_1123,South Africa,2000-11-14,Sensitive,Sensitive,B
+Pnc_1124,South Africa,2002-11-21,Sensitive,Sensitive,B
+Pnc_1125,USA,2003-01-16,Sensitive,Sensitive,A
+Pnc_1126,USA,2004-10-09,Sensitive,Sensitive,B
+Pnc_1127,USA,2017-10-10,Sensitive,Sensitive,A
+Pnc_1128,South Africa,2017-10-24,Resistant,Sensitive,B
+Pnc_1129,South Africa,2000-07-20,Resistant,Sensitive,B
+Pnc_1130,South Africa,2003-10-13,Sensitive,Sensitive,A
+Pnc_1131,South Africa,2000-07-30,Sensitive,Sensitive,A
+Pnc_1132,USA,2018-02-11,Sensitive,Sensitive,A
+Pnc_1133,South Africa,2008-12-14,Resistant,Sensitive,B
+Pnc_1134,USA,2006-01-06,Sensitive,Resistant,B
+Pnc_1135,USA,2016-12-26,Sensitive,Resistant,B
+Pnc_1136,South Africa,2003-02-21,Sensitive,Sensitive,B
+Pnc_1137,USA,2012-04-04,Sensitive,Resistant,B
+Pnc_1138,South Africa,2018-07-07,Resistant,Sensitive,B
+Pnc_1139,South Africa,2019-09-08,Sensitive,Sensitive,A
+Pnc_1140,USA,2004-11-11,Sensitive,Resistant,A
+Pnc_1141,South Africa,2000-01-26,Resistant,Sensitive,B
+Pnc_1142,South Africa,2004-10-26,Sensitive,Sensitive,A
+Pnc_1143,USA,2009-02-15,Sensitive,Sensitive,A
+Pnc_1144,USA,2017-08-29,Sensitive,Resistant,B
+Pnc_1145,USA,2006-01-20,Sensitive,Resistant,A
+Pnc_1146,South Africa,2020-11-01,Sensitive,Sensitive,B
+Pnc_1147,USA,2005-12-11,Sensitive,Sensitive,B
+Pnc_1148,South Africa,2015-12-29,Sensitive,Resistant,B
+Pnc_1149,USA,2008-01-06,Sensitive,Resistant,A
+Pnc_1150,USA,2000-08-16,Resistant,Resistant,A
+Pnc_1151,USA,2011-10-30,Sensitive,Sensitive,B
+Pnc_1152,USA,2005-08-29,Sensitive,Sensitive,A
+Pnc_1153,South Africa,2020-12-19,Resistant,Sensitive,A
+Pnc_1154,USA,2001-03-17,Sensitive,Sensitive,A
+Pnc_1155,USA,2020-02-04,Sensitive,Sensitive,A
+Pnc_1156,South Africa,2008-02-04,Resistant,Sensitive,A
+Pnc_1157,USA,2012-04-30,Sensitive,Resistant,B
+Pnc_1158,USA,2011-02-24,Sensitive,Sensitive,B
+Pnc_1159,South Africa,2013-12-26,Resistant,Sensitive,A
+Pnc_1160,USA,2010-09-11,Sensitive,Resistant,B
+Pnc_1161,South Africa,2001-02-23,Sensitive,Resistant,A
+Pnc_1162,South Africa,2019-05-16,Sensitive,Sensitive,B
+Pnc_1163,South Africa,2000-06-22,Resistant,Resistant,A
+Pnc_1164,South Africa,2020-02-20,Sensitive,Resistant,A
+Pnc_1165,USA,2014-06-25,Sensitive,Resistant,B
+Pnc_1166,South Africa,2004-10-14,Sensitive,Sensitive,A
+Pnc_1167,South Africa,2000-08-24,Sensitive,Sensitive,A
+Pnc_1168,South Africa,2015-07-03,Resistant,Sensitive,A
+Pnc_1169,South Africa,2002-05-05,Resistant,Sensitive,A
+Pnc_1170,South Africa,2003-05-05,Sensitive,Sensitive,A
+Pnc_1171,USA,2001-11-11,Sensitive,Sensitive,A
+Pnc_1172,USA,2011-05-22,Sensitive,Resistant,B
+Pnc_1173,USA,2008-12-28,Sensitive,Resistant,A
+Pnc_1174,South Africa,2016-12-15,Sensitive,Sensitive,B
+Pnc_1175,South Africa,2019-05-23,Sensitive,Sensitive,A
+Pnc_1176,South Africa,2006-04-15,Sensitive,Sensitive,B
+Pnc_1177,South Africa,2018-07-25,Resistant,Sensitive,B
+Pnc_1178,South Africa,2008-01-02,Resistant,Resistant,B
+Pnc_1179,USA,2013-08-10,Sensitive,Sensitive,B
+Pnc_1180,South Africa,2005-09-01,Resistant,Sensitive,A
+Pnc_1181,South Africa,2002-01-18,Sensitive,Sensitive,B
+Pnc_1182,USA,2003-08-04,Resistant,Resistant,B
+Pnc_1183,South Africa,2012-01-25,Sensitive,Sensitive,A
+Pnc_1184,South Africa,2011-04-27,Sensitive,Sensitive,A
+Pnc_1185,South Africa,2004-01-25,Resistant,Sensitive,A
+Pnc_1186,South Africa,2014-06-24,Sensitive,Sensitive,A
+Pnc_1187,USA,2015-02-15,Sensitive,Resistant,B
+Pnc_1188,USA,2005-03-10,Sensitive,Sensitive,A
+Pnc_1189,USA,2008-06-07,Sensitive,Resistant,A
+Pnc_1190,USA,2018-12-18,Sensitive,Resistant,B
+Pnc_1191,South Africa,2001-03-20,Resistant,Sensitive,B
+Pnc_1192,USA,2000-03-30,Sensitive,Sensitive,B
+Pnc_1193,USA,2020-09-04,Sensitive,Resistant,B
+Pnc_1194,USA,2013-08-25,Sensitive,Sensitive,B
+Pnc_1195,USA,2007-10-07,Sensitive,Resistant,A
+Pnc_1196,South Africa,2010-02-01,Resistant,Resistant,A
+Pnc_1197,USA,2003-10-04,Sensitive,Resistant,B
+Pnc_1198,South Africa,2002-09-20,Sensitive,Sensitive,B
+Pnc_1199,USA,2009-09-03,Sensitive,Resistant,A
+Pnc_1200,USA,2010-04-13,Resistant,Sensitive,B
+Pnc_1201,USA,2010-08-21,Sensitive,Resistant,A
+Pnc_1202,South Africa,2017-02-24,Resistant,Sensitive,B
+Pnc_1203,South Africa,2009-11-07,Sensitive,Sensitive,B
+Pnc_1204,South Africa,2011-05-19,Resistant,Sensitive,B
+Pnc_1205,South Africa,2013-12-16,Sensitive,Sensitive,A
+Pnc_1206,USA,2014-05-06,Sensitive,Sensitive,B
+Pnc_1207,USA,2009-02-12,Sensitive,Sensitive,B
+Pnc_1208,South Africa,2000-07-29,Resistant,Sensitive,A
+Pnc_1209,USA,2012-04-10,Sensitive,Sensitive,A
+Pnc_1210,South Africa,2016-08-24,Sensitive,Sensitive,A
+Pnc_1211,South Africa,2006-09-27,Resistant,Sensitive,A
+Pnc_1212,USA,2012-02-04,Sensitive,Sensitive,B
+Pnc_1213,USA,2002-08-03,Sensitive,Sensitive,A
+Pnc_1214,South Africa,2015-10-04,Sensitive,Sensitive,A
+Pnc_1215,USA,2007-10-04,Sensitive,Sensitive,B
+Pnc_1216,South Africa,2008-06-25,Resistant,Sensitive,B
+Pnc_1217,South Africa,2017-03-02,Resistant,Sensitive,A
+Pnc_1218,USA,2013-12-19,Sensitive,Resistant,A
+Pnc_1219,South Africa,2016-08-29,Sensitive,Sensitive,A
+Pnc_1220,USA,2001-04-27,Resistant,Resistant,A
+Pnc_1221,USA,2016-06-08,Sensitive,Sensitive,B
+Pnc_1222,South Africa,2013-06-03,Sensitive,Sensitive,B
+Pnc_1223,USA,2018-03-07,Sensitive,Resistant,B
+Pnc_1224,USA,2009-11-06,Sensitive,Resistant,B
+Pnc_1225,South Africa,2009-12-30,Resistant,Sensitive,A
+Pnc_1226,South Africa,2009-04-06,Resistant,Sensitive,A
+Pnc_1227,USA,2003-08-21,Sensitive,Resistant,A
+Pnc_1228,USA,2005-06-19,Sensitive,Resistant,A
+Pnc_1229,South Africa,2001-01-17,Resistant,Sensitive,A
+Pnc_1230,South Africa,2005-12-14,Sensitive,Sensitive,B
+Pnc_1231,USA,2002-02-25,Sensitive,Sensitive,B
+Pnc_1232,USA,2010-02-07,Sensitive,Resistant,B
+Pnc_1233,USA,2014-11-26,Sensitive,Resistant,B
+Pnc_1234,South Africa,2005-03-29,Resistant,Resistant,A
+Pnc_1235,South Africa,2010-02-18,Sensitive,Sensitive,B
+Pnc_1236,South Africa,2011-03-19,Sensitive,Sensitive,A
+Pnc_1237,USA,2006-08-09,Sensitive,Resistant,B
+Pnc_1238,USA,2002-02-01,Sensitive,Sensitive,A
+Pnc_1239,USA,2018-07-12,Sensitive,Sensitive,B
+Pnc_1240,South Africa,2009-01-18,Resistant,Sensitive,B
+Pnc_1241,South Africa,2002-02-08,Resistant,Sensitive,B
+Pnc_1242,South Africa,2010-12-16,Sensitive,Sensitive,B
+Pnc_1243,South Africa,2005-06-09,Sensitive,Sensitive,B
+Pnc_1244,South Africa,2003-09-19,Sensitive,Sensitive,B
+Pnc_1245,USA,2013-03-18,Sensitive,Sensitive,B
+Pnc_1246,USA,2004-06-03,Sensitive,Resistant,B
+Pnc_1247,USA,2000-03-17,Sensitive,Resistant,A
+Pnc_1248,South Africa,2013-02-02,Sensitive,Sensitive,A
+Pnc_1249,USA,2006-03-26,Resistant,Resistant,A
+Pnc_1250,USA,2004-12-12,Sensitive,Sensitive,A
+Pnc_1251,South Africa,2009-11-19,Resistant,Sensitive,A
+Pnc_1252,South Africa,2009-05-15,Sensitive,Sensitive,B
+Pnc_1253,South Africa,2005-12-29,Sensitive,Sensitive,B
+Pnc_1254,USA,2002-11-10,Sensitive,Sensitive,A
+Pnc_1255,USA,2017-06-10,Sensitive,Sensitive,A
+Pnc_1256,USA,2006-06-06,Sensitive,Sensitive,B
+Pnc_1257,USA,2013-10-15,Resistant,Resistant,B
+Pnc_1258,USA,2011-01-27,Sensitive,Sensitive,B
+Pnc_1259,South Africa,2017-09-03,Sensitive,Sensitive,A
+Pnc_1260,USA,2010-04-02,Sensitive,Sensitive,B
+Pnc_1261,South Africa,2011-09-23,Sensitive,Sensitive,A
+Pnc_1262,South Africa,2001-10-15,Resistant,Sensitive,B
+Pnc_1263,USA,2010-08-14,Sensitive,Resistant,B
+Pnc_1264,South Africa,2016-02-19,Sensitive,Sensitive,B
+Pnc_1265,South Africa,2020-05-25,Sensitive,Sensitive,A
+Pnc_1266,USA,2016-09-09,Sensitive,Resistant,B
+Pnc_1267,South Africa,2000-11-22,Sensitive,Resistant,B
+Pnc_1268,South Africa,2003-02-02,Resistant,Sensitive,B
+Pnc_1269,South Africa,2014-08-26,Resistant,Sensitive,A
+Pnc_1270,South Africa,2013-09-22,Sensitive,Sensitive,B
+Pnc_1271,South Africa,2005-08-20,Sensitive,Sensitive,B
+Pnc_1272,USA,2014-09-30,Sensitive,Sensitive,A
+Pnc_1273,USA,2006-04-25,Sensitive,Resistant,B
+Pnc_1274,USA,2014-05-10,Sensitive,Sensitive,B
+Pnc_1275,South Africa,2015-05-28,Sensitive,Sensitive,B
+Pnc_1276,USA,2001-05-28,Sensitive,Sensitive,B
+Pnc_1277,South Africa,2001-03-11,Sensitive,Sensitive,A
+Pnc_1278,USA,2019-04-18,Sensitive,Sensitive,B
+Pnc_1279,South Africa,2005-02-10,Sensitive,Sensitive,A
+Pnc_1280,South Africa,2016-04-05,Sensitive,Resistant,A
+Pnc_1281,South Africa,2014-11-15,Sensitive,Sensitive,B
+Pnc_1282,South Africa,2020-06-03,Sensitive,Sensitive,B
+Pnc_1283,South Africa,2006-02-06,Resistant,Sensitive,A
+Pnc_1284,USA,2007-04-10,Sensitive,Sensitive,B
+Pnc_1285,South Africa,2011-02-15,Resistant,Sensitive,A
+Pnc_1286,USA,2017-10-22,Resistant,Sensitive,B
+Pnc_1287,South Africa,2009-09-19,Sensitive,Sensitive,A
+Pnc_1288,South Africa,2009-09-24,Resistant,Sensitive,B
+Pnc_1289,USA,2003-04-20,Sensitive,Resistant,A
+Pnc_1290,South Africa,2013-05-12,Sensitive,Sensitive,A
+Pnc_1291,South Africa,2008-02-21,Sensitive,Sensitive,B
+Pnc_1292,South Africa,2001-08-26,Sensitive,Sensitive,B
+Pnc_1293,USA,2007-08-07,Sensitive,Sensitive,B
+Pnc_1294,USA,2015-06-17,Sensitive,Resistant,B
+Pnc_1295,USA,2016-02-01,Sensitive,Sensitive,B
+Pnc_1296,South Africa,2018-12-15,Sensitive,Sensitive,B
+Pnc_1297,South Africa,2019-11-03,Resistant,Sensitive,B
+Pnc_1298,South Africa,2001-11-20,Resistant,Sensitive,A
+Pnc_1299,USA,2020-03-16,Sensitive,Resistant,B
+Pnc_1300,South Africa,2017-07-09,Resistant,Sensitive,A
+Pnc_1301,USA,2006-05-07,Resistant,Sensitive,B
+Pnc_1302,USA,2011-05-01,Sensitive,Sensitive,B
+Pnc_1303,South Africa,2003-11-03,Sensitive,Sensitive,B
+Pnc_1304,USA,2012-09-29,Sensitive,Sensitive,B
+Pnc_1305,USA,2011-10-20,Sensitive,Resistant,B
+Pnc_1306,USA,2018-01-18,Sensitive,Sensitive,B
+Pnc_1307,South Africa,2018-11-11,Resistant,Sensitive,B
+Pnc_1308,USA,2009-09-13,Sensitive,Sensitive,A
+Pnc_1309,USA,2000-11-18,Sensitive,Sensitive,B
+Pnc_1310,USA,2009-11-05,Sensitive,Sensitive,A
+Pnc_1311,South Africa,2006-09-08,Sensitive,Resistant,B
+Pnc_1312,South Africa,2017-11-03,Sensitive,Sensitive,B
+Pnc_1313,South Africa,2004-07-23,Sensitive,Sensitive,B
+Pnc_1314,USA,2010-07-20,Sensitive,Resistant,B
+Pnc_1315,South Africa,2000-04-16,Sensitive,Sensitive,B
+Pnc_1316,South Africa,2006-01-15,Resistant,Sensitive,B
+Pnc_1317,USA,2015-01-26,Sensitive,Sensitive,B
+Pnc_1318,USA,2006-02-16,Sensitive,Sensitive,B
+Pnc_1319,USA,2005-03-23,Sensitive,Sensitive,A
+Pnc_1320,South Africa,2012-03-06,Resistant,Sensitive,B
+Pnc_1321,USA,2005-05-03,Sensitive,Resistant,A
+Pnc_1322,USA,2019-10-18,Sensitive,Resistant,A
+Pnc_1323,South Africa,2013-06-23,Sensitive,Sensitive,B
+Pnc_1324,South Africa,2015-03-04,Resistant,Sensitive,B
+Pnc_1325,South Africa,2012-01-08,Sensitive,Sensitive,A
+Pnc_1326,USA,2008-04-25,Sensitive,Resistant,A
+Pnc_1327,USA,2001-02-10,Sensitive,Sensitive,B
+Pnc_1328,South Africa,2000-05-20,Sensitive,Sensitive,B
+Pnc_1329,South Africa,2013-10-10,Resistant,Sensitive,B
+Pnc_1330,USA,2016-03-22,Sensitive,Resistant,B
+Pnc_1331,South Africa,2018-10-07,Resistant,Sensitive,B
+Pnc_1332,USA,2005-03-13,Sensitive,Sensitive,A
+Pnc_1333,USA,2016-09-27,Sensitive,Sensitive,B
+Pnc_1334,USA,2001-10-06,Sensitive,Resistant,A
+Pnc_1335,USA,2005-04-03,Sensitive,Resistant,B
+Pnc_1336,South Africa,2005-04-04,Sensitive,Sensitive,B
+Pnc_1337,USA,2018-12-31,Sensitive,Resistant,B
+Pnc_1338,USA,2010-07-11,Resistant,Sensitive,B
+Pnc_1339,South Africa,2006-08-04,Resistant,Sensitive,B
+Pnc_1340,USA,2012-08-30,Sensitive,Resistant,B
+Pnc_1341,South Africa,2016-10-02,Sensitive,Sensitive,B
+Pnc_1342,South Africa,2014-04-01,Sensitive,Sensitive,A
+Pnc_1343,USA,2007-09-07,Sensitive,Sensitive,A
+Pnc_1344,South Africa,2012-12-24,Resistant,Sensitive,B
+Pnc_1345,South Africa,2008-03-27,Resistant,Sensitive,B
+Pnc_1346,South Africa,2006-05-22,Resistant,Sensitive,A
+Pnc_1347,South Africa,2004-02-15,Resistant,Sensitive,B
+Pnc_1348,South Africa,2005-11-22,Sensitive,Sensitive,B
+Pnc_1349,South Africa,2016-03-15,Sensitive,Sensitive,B
+Pnc_1350,USA,2009-05-30,Sensitive,Sensitive,B
+Pnc_1351,USA,2006-12-07,Sensitive,Resistant,B
+Pnc_1352,USA,2017-06-25,Sensitive,Resistant,A
+Pnc_1353,USA,2001-03-27,Sensitive,Sensitive,A
+Pnc_1354,South Africa,2009-07-31,Resistant,Sensitive,A
+Pnc_1355,USA,2012-12-18,Sensitive,Sensitive,B
+Pnc_1356,South Africa,2001-05-01,Sensitive,Sensitive,A
+Pnc_1357,South Africa,2019-05-18,Resistant,Sensitive,B
+Pnc_1358,USA,2017-05-04,Sensitive,Sensitive,B
+Pnc_1359,USA,2003-08-31,Sensitive,Resistant,A
+Pnc_1360,USA,2016-06-17,Resistant,Resistant,B
+Pnc_1361,South Africa,2009-04-29,Resistant,Sensitive,A
+Pnc_1362,USA,2001-06-29,Sensitive,Sensitive,B
+Pnc_1363,USA,2015-06-10,Sensitive,Sensitive,B
+Pnc_1364,South Africa,2000-04-05,Resistant,Sensitive,B
+Pnc_1365,South Africa,2020-10-19,Sensitive,Sensitive,B
+Pnc_1366,USA,2000-06-01,Sensitive,Resistant,B
+Pnc_1367,South Africa,2002-06-10,Resistant,Sensitive,B
+Pnc_1368,USA,2003-10-25,Sensitive,Resistant,A
+Pnc_1369,South Africa,2009-10-14,Resistant,Sensitive,B
+Pnc_1370,South Africa,2002-03-02,Resistant,Sensitive,B
+Pnc_1371,USA,2019-06-12,Sensitive,Sensitive,B
+Pnc_1372,South Africa,2006-08-06,Resistant,Sensitive,A
+Pnc_1373,USA,2014-08-30,Sensitive,Resistant,B
+Pnc_1374,South Africa,2006-09-26,Sensitive,Sensitive,B
+Pnc_1375,South Africa,2017-11-12,Sensitive,Sensitive,B
+Pnc_1376,USA,2020-05-09,Sensitive,Resistant,B
+Pnc_1377,USA,2010-10-05,Sensitive,Sensitive,B
+Pnc_1378,USA,2020-09-01,Sensitive,Sensitive,B
+Pnc_1379,USA,2013-04-01,Resistant,Resistant,B
+Pnc_1380,South Africa,2020-04-08,Resistant,Sensitive,B
+Pnc_1381,South Africa,2006-01-30,Resistant,Sensitive,B
+Pnc_1382,South Africa,2015-04-12,Resistant,Sensitive,B
+Pnc_1383,South Africa,2000-06-02,Sensitive,Sensitive,A
+Pnc_1384,USA,2017-04-24,Sensitive,Sensitive,B
+Pnc_1385,South Africa,2018-10-19,Sensitive,Sensitive,A
+Pnc_1386,South Africa,2007-04-21,Sensitive,Sensitive,B
+Pnc_1387,USA,2003-11-29,Sensitive,Sensitive,A
+Pnc_1388,South Africa,2000-02-14,Resistant,Sensitive,B
+Pnc_1389,South Africa,2007-06-23,Resistant,Sensitive,B
+Pnc_1390,USA,2020-12-11,Sensitive,Resistant,B
+Pnc_1391,South Africa,2019-01-21,Resistant,Sensitive,A
+Pnc_1392,South Africa,2003-07-07,Sensitive,Resistant,A
+Pnc_1393,South Africa,2006-06-17,Sensitive,Sensitive,B
+Pnc_1394,South Africa,2009-11-28,Resistant,Sensitive,A
+Pnc_1395,South Africa,2008-11-15,Sensitive,Sensitive,B
+Pnc_1396,South Africa,2005-08-03,Sensitive,Resistant,B
+Pnc_1397,USA,2007-11-22,Sensitive,Sensitive,A
+Pnc_1398,South Africa,2016-09-14,Resistant,Sensitive,A
+Pnc_1399,South Africa,2017-05-26,Resistant,Sensitive,A
+Pnc_1400,USA,2010-05-11,Sensitive,Sensitive,A
+Pnc_1401,USA,2000-03-26,Sensitive,Sensitive,A
+Pnc_1402,South Africa,2006-07-01,Resistant,Sensitive,B
+Pnc_1403,South Africa,2005-06-20,Sensitive,Sensitive,B
+Pnc_1404,USA,2010-07-23,Sensitive,Sensitive,B
+Pnc_1405,South Africa,2001-10-12,Resistant,Sensitive,A
+Pnc_1406,USA,2014-02-09,Sensitive,Resistant,B
+Pnc_1407,USA,2000-09-27,Sensitive,Resistant,B
+Pnc_1408,South Africa,2001-11-23,Sensitive,Sensitive,A
+Pnc_1409,South Africa,2018-03-19,Sensitive,Sensitive,A
+Pnc_1410,USA,2001-12-30,Sensitive,Resistant,A
+Pnc_1411,USA,2006-12-24,Sensitive,Sensitive,B
+Pnc_1412,South Africa,2007-12-13,Resistant,Sensitive,A
+Pnc_1413,South Africa,2010-02-04,Sensitive,Sensitive,B
+Pnc_1414,USA,2003-04-25,Sensitive,Resistant,B
+Pnc_1415,South Africa,2014-10-08,Sensitive,Sensitive,A
+Pnc_1416,USA,2007-06-07,Sensitive,Sensitive,B
+Pnc_1417,USA,2016-08-18,Sensitive,Resistant,B
+Pnc_1418,South Africa,2007-10-05,Resistant,Sensitive,A
+Pnc_1419,South Africa,2018-01-14,Sensitive,Sensitive,B
+Pnc_1420,USA,2018-06-14,Sensitive,Resistant,B
+Pnc_1421,USA,2009-04-19,Sensitive,Resistant,B
+Pnc_1422,USA,2010-08-07,Sensitive,Resistant,B
+Pnc_1423,South Africa,2012-04-19,Resistant,Sensitive,B
+Pnc_1424,South Africa,2008-01-20,Resistant,Sensitive,A
+Pnc_1425,South Africa,2016-04-19,Resistant,Sensitive,B
+Pnc_1426,South Africa,2014-12-07,Sensitive,Sensitive,A
+Pnc_1427,USA,2019-09-04,Resistant,Resistant,B
+Pnc_1428,USA,2016-01-09,Sensitive,Resistant,B
+Pnc_1429,USA,2016-02-25,Sensitive,Sensitive,B
+Pnc_1430,USA,2012-01-15,Sensitive,Sensitive,B
+Pnc_1431,USA,2010-12-24,Resistant,Sensitive,B
+Pnc_1432,USA,2018-02-14,Sensitive,Sensitive,B
+Pnc_1433,South Africa,2001-08-30,Resistant,Sensitive,A
+Pnc_1434,South Africa,2012-02-05,Resistant,Sensitive,B
+Pnc_1435,USA,2015-02-10,Sensitive,Resistant,B
+Pnc_1436,USA,2015-05-15,Sensitive,Sensitive,B
+Pnc_1437,USA,2018-06-12,Sensitive,Resistant,B
+Pnc_1438,USA,2019-07-23,Resistant,Sensitive,B
+Pnc_1439,USA,2012-01-17,Sensitive,Sensitive,B
+Pnc_1440,South Africa,2017-11-04,Resistant,Sensitive,A
+Pnc_1441,South Africa,2002-01-22,Resistant,Sensitive,B
+Pnc_1442,South Africa,2015-07-29,Sensitive,Sensitive,B
+Pnc_1443,South Africa,2003-02-06,Resistant,Resistant,B
+Pnc_1444,South Africa,2019-10-12,Sensitive,Resistant,A
+Pnc_1445,USA,2015-08-06,Resistant,Resistant,B
+Pnc_1446,USA,2014-06-02,Sensitive,Resistant,B
+Pnc_1447,South Africa,2000-03-19,Sensitive,Sensitive,B
+Pnc_1448,South Africa,2005-11-09,Sensitive,Sensitive,A
+Pnc_1449,USA,2006-12-21,Resistant,Sensitive,A
+Pnc_1450,USA,2009-12-10,Sensitive,Resistant,A
+Pnc_1451,USA,2015-02-22,Sensitive,Resistant,B
+Pnc_1452,South Africa,2009-06-01,Sensitive,Sensitive,A
+Pnc_1453,South Africa,2007-03-19,Resistant,Sensitive,A
+Pnc_1454,USA,2009-11-22,Sensitive,Sensitive,A
+Pnc_1455,South Africa,2001-05-18,Resistant,Sensitive,B
+Pnc_1456,South Africa,2009-08-22,Resistant,Sensitive,B
+Pnc_1457,USA,2019-02-28,Resistant,Resistant,B
+Pnc_1458,South Africa,2005-05-10,Sensitive,Resistant,B
+Pnc_1459,USA,2018-06-28,Sensitive,Sensitive,A
+Pnc_1460,South Africa,2019-08-09,Sensitive,Resistant,B
+Pnc_1461,South Africa,2002-12-17,Sensitive,Resistant,A
+Pnc_1462,South Africa,2014-11-09,Resistant,Sensitive,A
+Pnc_1463,USA,2008-07-19,Sensitive,Sensitive,A
+Pnc_1464,USA,2009-07-02,Sensitive,Resistant,B
+Pnc_1465,South Africa,2003-08-24,Resistant,Sensitive,B
+Pnc_1466,South Africa,2017-10-27,Sensitive,Sensitive,A
+Pnc_1467,USA,2002-08-12,Sensitive,Resistant,B
+Pnc_1468,USA,2008-11-19,Sensitive,Resistant,A
+Pnc_1469,South Africa,2016-09-19,Sensitive,Sensitive,A
+Pnc_1470,USA,2013-06-28,Sensitive,Resistant,B
+Pnc_1471,USA,2002-10-10,Sensitive,Sensitive,A
+Pnc_1472,USA,2009-06-25,Sensitive,Resistant,B
+Pnc_1473,USA,2016-10-22,Sensitive,Sensitive,B
+Pnc_1474,USA,2015-01-02,Sensitive,Resistant,B
+Pnc_1475,USA,2005-01-08,Sensitive,Resistant,A
+Pnc_1476,South Africa,2013-08-07,Sensitive,Sensitive,A
+Pnc_1477,USA,2000-11-02,Sensitive,Resistant,A
+Pnc_1478,USA,2004-12-17,Sensitive,Sensitive,B
+Pnc_1479,South Africa,2016-04-18,Resistant,Sensitive,A
+Pnc_1480,South Africa,2016-12-08,Sensitive,Sensitive,B
+Pnc_1481,South Africa,2019-04-30,Resistant,Sensitive,B
+Pnc_1482,South Africa,2013-10-19,Resistant,Sensitive,B
+Pnc_1483,South Africa,2017-12-25,Sensitive,Sensitive,B
+Pnc_1484,USA,2016-11-23,Sensitive,Resistant,B
+Pnc_1485,USA,2013-01-10,Sensitive,Resistant,B
+Pnc_1486,USA,2005-12-13,Sensitive,Sensitive,A
+Pnc_1487,South Africa,2010-10-12,Resistant,Sensitive,A
+Pnc_1488,USA,2018-12-01,Sensitive,Sensitive,B
+Pnc_1489,South Africa,2019-11-04,Resistant,Resistant,B
+Pnc_1490,USA,2003-04-04,Sensitive,Sensitive,A
+Pnc_1491,South Africa,2018-04-30,Resistant,Resistant,A
+Pnc_1492,USA,2018-08-14,Sensitive,Sensitive,B
+Pnc_1493,USA,2008-06-19,Sensitive,Sensitive,A
+Pnc_1494,USA,2000-03-04,Sensitive,Resistant,A
+Pnc_1495,USA,2004-11-27,Sensitive,Resistant,A
+Pnc_1496,USA,2003-04-11,Sensitive,Resistant,B
+Pnc_1497,USA,2002-04-06,Sensitive,Resistant,A
+Pnc_1498,USA,2017-04-01,Resistant,Sensitive,B
+Pnc_1499,South Africa,2013-02-01,Resistant,Sensitive,B
+Pnc_1500,South Africa,2000-10-18,Sensitive,Sensitive,B
+Pnc_1501,South Africa,2011-10-21,Sensitive,Sensitive,B
+Pnc_1502,South Africa,2000-12-11,Sensitive,Sensitive,B
+Pnc_1503,South Africa,2018-02-06,Sensitive,Sensitive,A
+Pnc_1504,South Africa,2003-09-30,Resistant,Sensitive,B
+Pnc_1505,South Africa,2012-05-28,Sensitive,Sensitive,A
+Pnc_1506,South Africa,2009-12-23,Sensitive,Sensitive,B
+Pnc_1507,USA,2003-06-05,Sensitive,Resistant,B
+Pnc_1508,South Africa,2007-04-26,Resistant,Sensitive,B
+Pnc_1509,USA,2008-09-27,Sensitive,Sensitive,A
+Pnc_1510,USA,2006-01-23,Sensitive,Sensitive,B
+Pnc_1511,USA,2013-07-10,Sensitive,Sensitive,B
+Pnc_1512,South Africa,2013-06-05,Sensitive,Sensitive,B
+Pnc_1513,South Africa,2019-11-12,Sensitive,Resistant,A
+Pnc_1514,USA,2019-12-30,Sensitive,Resistant,B
+Pnc_1515,South Africa,2001-07-06,Sensitive,Sensitive,A
+Pnc_1516,USA,2020-01-25,Sensitive,Resistant,B
+Pnc_1517,USA,2012-11-10,Sensitive,Sensitive,B
+Pnc_1518,USA,2011-06-07,Sensitive,Sensitive,B
+Pnc_1519,USA,2013-04-11,Sensitive,Resistant,B
+Pnc_1520,USA,2001-05-19,Sensitive,Resistant,B
+Pnc_1521,USA,2001-08-17,Sensitive,Resistant,A
+Pnc_1522,USA,2009-05-25,Sensitive,Sensitive,A
+Pnc_1523,South Africa,2011-04-09,Sensitive,Sensitive,B
+Pnc_1524,USA,2019-10-29,Sensitive,Resistant,B
+Pnc_1525,South Africa,2005-11-16,Resistant,Sensitive,B
+Pnc_1526,USA,2002-10-25,Sensitive,Resistant,B
+Pnc_1527,South Africa,2003-10-29,Sensitive,Resistant,A
+Pnc_1528,USA,2011-06-19,Sensitive,Resistant,B
+Pnc_1529,USA,2009-02-03,Resistant,Sensitive,A
+Pnc_1530,USA,2007-01-29,Sensitive,Sensitive,B
+Pnc_1531,South Africa,2007-09-09,Resistant,Sensitive,B
+Pnc_1532,South Africa,2013-06-20,Sensitive,Sensitive,A
+Pnc_1533,USA,2010-08-02,Sensitive,Sensitive,B
+Pnc_1534,South Africa,2019-02-10,Resistant,Sensitive,B
+Pnc_1535,USA,2015-07-07,Sensitive,Resistant,B
+Pnc_1536,South Africa,2004-10-28,Resistant,Sensitive,B
+Pnc_1537,South Africa,2013-12-30,Sensitive,Sensitive,B
+Pnc_1538,South Africa,2020-03-02,Sensitive,Sensitive,B
+Pnc_1539,USA,2018-02-12,Sensitive,Sensitive,B
+Pnc_1540,South Africa,2015-04-05,Sensitive,Sensitive,A
+Pnc_1541,USA,2016-03-13,Sensitive,Sensitive,B
+Pnc_1542,South Africa,2018-12-02,Sensitive,Sensitive,B
+Pnc_1543,South Africa,2010-07-26,Resistant,Sensitive,A
+Pnc_1544,USA,2005-08-25,Sensitive,Resistant,B
+Pnc_1545,South Africa,2009-08-21,Resistant,Sensitive,A
+Pnc_1546,South Africa,2000-06-04,Resistant,Sensitive,A
+Pnc_1547,USA,2008-09-07,Sensitive,Sensitive,B
+Pnc_1548,USA,2010-12-25,Sensitive,Sensitive,B
+Pnc_1549,USA,2011-04-02,Sensitive,Sensitive,B
+Pnc_1550,USA,2012-05-13,Sensitive,Sensitive,B
+Pnc_1551,USA,2000-11-27,Sensitive,Resistant,B
+Pnc_1552,South Africa,2005-02-02,Sensitive,Sensitive,B
+Pnc_1553,USA,2018-06-23,Sensitive,Sensitive,B
+Pnc_1554,South Africa,2005-02-21,Resistant,Sensitive,A
+Pnc_1555,South Africa,2011-07-30,Sensitive,Sensitive,B
+Pnc_1556,South Africa,2014-11-20,Sensitive,Sensitive,B
+Pnc_1557,USA,2002-06-02,Sensitive,Sensitive,A
+Pnc_1558,USA,2008-10-18,Sensitive,Resistant,B
+Pnc_1559,South Africa,2007-12-31,Sensitive,Sensitive,A
+Pnc_1560,South Africa,2014-05-23,Resistant,Sensitive,A
+Pnc_1561,South Africa,2012-03-30,Sensitive,Sensitive,A
+Pnc_1562,South Africa,2018-04-03,Resistant,Sensitive,B
+Pnc_1563,South Africa,2004-09-14,Sensitive,Sensitive,B
+Pnc_1564,USA,2001-10-22,Sensitive,Sensitive,B
+Pnc_1565,South Africa,2014-10-25,Sensitive,Sensitive,A
+Pnc_1566,USA,2000-03-01,Resistant,Sensitive,B
+Pnc_1567,USA,2014-04-12,Sensitive,Sensitive,B
+Pnc_1568,USA,2000-12-30,Sensitive,Resistant,B
+Pnc_1569,USA,2014-10-22,Sensitive,Sensitive,B
+Pnc_1570,South Africa,2007-01-10,Resistant,Sensitive,B
+Pnc_1571,USA,2008-02-05,Sensitive,Resistant,B
+Pnc_1572,USA,2018-07-05,Sensitive,Resistant,B
+Pnc_1573,USA,2014-06-10,Sensitive,Resistant,B
+Pnc_1574,USA,2012-04-18,Resistant,Sensitive,B
+Pnc_1575,South Africa,2013-05-05,Resistant,Resistant,A
+Pnc_1576,USA,2013-01-07,Sensitive,Resistant,B
+Pnc_1577,South Africa,2010-05-12,Sensitive,Resistant,B
+Pnc_1578,USA,2009-02-28,Sensitive,Resistant,A
+Pnc_1579,USA,2003-05-29,Sensitive,Resistant,B
+Pnc_1580,South Africa,2003-06-12,Resistant,Sensitive,A
+Pnc_1581,USA,2007-03-21,Sensitive,Sensitive,A
+Pnc_1582,USA,2016-08-17,Sensitive,Sensitive,B
+Pnc_1583,South Africa,2001-07-14,Sensitive,Resistant,A
+Pnc_1584,USA,2014-09-10,Resistant,Resistant,B
+Pnc_1585,South Africa,2008-10-29,Sensitive,Sensitive,B
+Pnc_1586,South Africa,2001-02-07,Sensitive,Sensitive,A
+Pnc_1587,South Africa,2014-01-28,Sensitive,Sensitive,A
+Pnc_1588,South Africa,2020-09-15,Resistant,Sensitive,B
+Pnc_1589,USA,2015-09-24,Sensitive,Resistant,A
+Pnc_1590,USA,2016-02-28,Sensitive,Sensitive,B
+Pnc_1591,South Africa,2006-01-17,Resistant,Sensitive,A
+Pnc_1592,South Africa,2019-11-01,Sensitive,Sensitive,A
+Pnc_1593,South Africa,2016-01-06,Resistant,Sensitive,A
+Pnc_1594,USA,2007-10-10,Resistant,Sensitive,B
+Pnc_1595,South Africa,2002-05-29,Sensitive,Sensitive,B
+Pnc_1596,USA,2006-07-14,Sensitive,Sensitive,B
+Pnc_1597,USA,2004-08-02,Sensitive,Resistant,A
+Pnc_1598,USA,2005-09-05,Sensitive,Sensitive,A
+Pnc_1599,South Africa,2005-10-12,Sensitive,Sensitive,A
+Pnc_1600,USA,2000-11-05,Sensitive,Resistant,A
+Pnc_1601,USA,2007-11-12,Sensitive,Resistant,A
+Pnc_1602,South Africa,2004-01-14,Sensitive,Sensitive,B
+Pnc_1603,South Africa,2003-05-04,Resistant,Sensitive,B
+Pnc_1604,USA,2020-10-26,Resistant,Resistant,B
+Pnc_1605,USA,2014-07-13,Sensitive,Sensitive,B
+Pnc_1606,South Africa,2009-06-06,Sensitive,Sensitive,A
+Pnc_1607,USA,2006-10-09,Resistant,Resistant,A
+Pnc_1608,South Africa,2003-07-25,Sensitive,Sensitive,B
+Pnc_1609,USA,2018-03-16,Sensitive,Sensitive,B
+Pnc_1610,South Africa,2019-09-05,Sensitive,Sensitive,A
+Pnc_1611,South Africa,2017-02-27,Resistant,Sensitive,B
+Pnc_1612,South Africa,2010-03-04,Sensitive,Sensitive,B
+Pnc_1613,South Africa,2005-06-13,Sensitive,Sensitive,A
+Pnc_1614,USA,2013-11-22,Sensitive,Sensitive,B
+Pnc_1615,South Africa,2008-09-30,Sensitive,Sensitive,B
+Pnc_1616,South Africa,2014-01-09,Resistant,Sensitive,B
+Pnc_1617,USA,2019-06-19,Sensitive,Resistant,B
+Pnc_1618,South Africa,2001-05-06,Sensitive,Sensitive,A
+Pnc_1619,USA,2012-06-10,Sensitive,Sensitive,B
+Pnc_1620,South Africa,2014-03-30,Resistant,Sensitive,B
+Pnc_1621,South Africa,2015-06-07,Resistant,Sensitive,B
+Pnc_1622,South Africa,2011-07-29,Sensitive,Sensitive,A
+Pnc_1623,USA,2017-03-15,Sensitive,Sensitive,B
+Pnc_1624,USA,2020-02-12,Sensitive,Sensitive,A
+Pnc_1625,USA,2002-07-04,Resistant,Sensitive,B
+Pnc_1626,South Africa,2012-07-24,Sensitive,Resistant,A
+Pnc_1627,South Africa,2012-05-24,Resistant,Sensitive,B
+Pnc_1628,South Africa,2015-11-17,Sensitive,Sensitive,B
+Pnc_1629,South Africa,2005-01-30,Sensitive,Sensitive,B
+Pnc_1630,USA,2018-06-09,Sensitive,Sensitive,B
+Pnc_1631,USA,2014-03-06,Sensitive,Resistant,B
+Pnc_1632,USA,2019-09-16,Sensitive,Sensitive,B
+Pnc_1633,South Africa,2012-10-27,Resistant,Sensitive,B
+Pnc_1634,South Africa,2007-12-25,Resistant,Sensitive,A
+Pnc_1635,USA,2012-10-26,Sensitive,Resistant,A
+Pnc_1636,South Africa,2004-07-03,Sensitive,Sensitive,A
+Pnc_1637,USA,2004-11-24,Resistant,Resistant,A
+Pnc_1638,South Africa,2012-02-09,Resistant,Sensitive,A
+Pnc_1639,USA,2009-08-28,Resistant,Resistant,B
+Pnc_1640,USA,2006-05-21,Sensitive,Resistant,A
+Pnc_1641,USA,2014-07-27,Sensitive,Sensitive,A
+Pnc_1642,South Africa,2010-08-25,Sensitive,Sensitive,B
+Pnc_1643,USA,2009-12-03,Resistant,Sensitive,B
+Pnc_1644,USA,2000-11-09,Sensitive,Resistant,A
+Pnc_1645,USA,2019-07-29,Sensitive,Resistant,B
+Pnc_1646,USA,2005-10-24,Sensitive,Resistant,B
+Pnc_1647,USA,2004-05-03,Sensitive,Resistant,B
+Pnc_1648,South Africa,2011-03-29,Resistant,Sensitive,A
+Pnc_1649,USA,2018-01-03,Sensitive,Resistant,B
+Pnc_1650,USA,2001-10-16,Sensitive,Resistant,A
+Pnc_1651,South Africa,2015-08-07,Sensitive,Sensitive,A
+Pnc_1652,South Africa,2006-09-17,Sensitive,Sensitive,B
+Pnc_1653,South Africa,2004-05-21,Resistant,Sensitive,B
+Pnc_1654,USA,2018-02-08,Sensitive,Resistant,B
+Pnc_1655,USA,2008-12-29,Resistant,Resistant,A
+Pnc_1656,South Africa,2012-02-20,Resistant,Sensitive,A
+Pnc_1657,South Africa,2016-12-10,Resistant,Resistant,A
+Pnc_1658,South Africa,2019-09-02,Resistant,Sensitive,A
+Pnc_1659,South Africa,2015-10-07,Sensitive,Sensitive,B
+Pnc_1660,South Africa,2017-06-19,Sensitive,Sensitive,A
+Pnc_1661,USA,2007-05-31,Sensitive,Sensitive,A
+Pnc_1662,South Africa,2008-04-03,Sensitive,Sensitive,B
+Pnc_1663,South Africa,2002-01-06,Sensitive,Resistant,A
+Pnc_1664,South Africa,2013-11-29,Resistant,Sensitive,B
+Pnc_1665,USA,2013-06-08,Sensitive,Sensitive,B
+Pnc_1666,South Africa,2003-12-29,Sensitive,Sensitive,A
+Pnc_1667,South Africa,2007-01-22,Resistant,Sensitive,A
+Pnc_1668,South Africa,2017-06-06,Resistant,Resistant,B
+Pnc_1669,USA,2004-02-25,Sensitive,Resistant,A
+Pnc_1670,South Africa,2008-11-29,Sensitive,Sensitive,A
+Pnc_1671,South Africa,2013-06-09,Resistant,Sensitive,A
+Pnc_1672,South Africa,2020-11-04,Sensitive,Sensitive,A
+Pnc_1673,USA,2020-08-05,Resistant,Resistant,B
+Pnc_1674,South Africa,2005-01-24,Resistant,Sensitive,A
+Pnc_1675,South Africa,2014-01-19,Sensitive,Sensitive,B
+Pnc_1676,USA,2000-08-15,Sensitive,Sensitive,A
+Pnc_1677,South Africa,2001-07-25,Sensitive,Sensitive,B
+Pnc_1678,USA,2013-05-29,Sensitive,Sensitive,B
+Pnc_1679,USA,2012-11-01,Sensitive,Resistant,B
+Pnc_1680,South Africa,2000-08-14,Resistant,Sensitive,B
+Pnc_1681,South Africa,2016-06-15,Resistant,Sensitive,B
+Pnc_1682,USA,2012-11-19,Sensitive,Sensitive,B
+Pnc_1683,South Africa,2005-10-18,Resistant,Sensitive,A
+Pnc_1684,USA,2001-05-08,Sensitive,Sensitive,B
+Pnc_1685,USA,2005-11-13,Sensitive,Sensitive,A
+Pnc_1686,USA,2004-02-13,Sensitive,Resistant,A
+Pnc_1687,USA,2003-12-10,Sensitive,Resistant,B
+Pnc_1688,USA,2001-01-04,Sensitive,Sensitive,B
+Pnc_1689,South Africa,2006-01-28,Resistant,Sensitive,B
+Pnc_1690,South Africa,2006-06-08,Sensitive,Sensitive,B
+Pnc_1691,USA,2006-02-18,Sensitive,Resistant,B
+Pnc_1692,South Africa,2004-07-19,Resistant,Sensitive,B
+Pnc_1693,USA,2017-04-28,Sensitive,Resistant,B
+Pnc_1694,South Africa,2019-05-17,Resistant,Sensitive,A
+Pnc_1695,USA,2020-10-17,Sensitive,Resistant,B
+Pnc_1696,USA,2019-02-19,Sensitive,Resistant,B
+Pnc_1697,USA,2016-11-15,Sensitive,Resistant,B
+Pnc_1698,South Africa,2002-01-03,Resistant,Sensitive,A
+Pnc_1699,USA,2002-05-27,Sensitive,Sensitive,B
+Pnc_1700,USA,2010-05-16,Sensitive,Resistant,B
+Pnc_1701,USA,2005-04-11,Sensitive,Resistant,A
+Pnc_1702,USA,2020-04-30,Sensitive,Resistant,B
+Pnc_1703,USA,2010-05-06,Sensitive,Sensitive,B
+Pnc_1704,South Africa,2013-12-07,Sensitive,Sensitive,B
+Pnc_1705,South Africa,2006-12-11,Resistant,Sensitive,B
+Pnc_1706,South Africa,2013-05-15,Resistant,Sensitive,A
+Pnc_1707,South Africa,2010-06-26,Resistant,Sensitive,A
+Pnc_1708,South Africa,2008-09-23,Resistant,Resistant,B
+Pnc_1709,USA,2008-01-23,Sensitive,Sensitive,A
+Pnc_1710,South Africa,2003-05-11,Resistant,Sensitive,A
+Pnc_1711,South Africa,2005-11-11,Resistant,Sensitive,A
+Pnc_1712,USA,2007-04-13,Sensitive,Sensitive,B
+Pnc_1713,South Africa,2007-10-28,Sensitive,Sensitive,B
+Pnc_1714,USA,2018-01-04,Sensitive,Sensitive,B
+Pnc_1715,South Africa,2009-11-16,Resistant,Sensitive,B
+Pnc_1716,South Africa,2014-02-17,Sensitive,Sensitive,B
+Pnc_1717,South Africa,2005-09-03,Sensitive,Sensitive,B
+Pnc_1718,USA,2017-07-11,Sensitive,Resistant,B
+Pnc_1719,USA,2003-09-23,Sensitive,Resistant,B
+Pnc_1720,South Africa,2005-03-19,Sensitive,Sensitive,A
+Pnc_1721,South Africa,2013-07-03,Resistant,Sensitive,B
+Pnc_1722,South Africa,2005-05-17,Sensitive,Sensitive,A
+Pnc_1723,USA,2004-04-09,Sensitive,Sensitive,B
+Pnc_1724,South Africa,2006-03-21,Resistant,Resistant,A
+Pnc_1725,USA,2001-01-28,Sensitive,Sensitive,B
+Pnc_1726,USA,2014-03-21,Sensitive,Sensitive,B
+Pnc_1727,USA,2011-07-09,Resistant,Resistant,B
+Pnc_1728,USA,2017-02-11,Sensitive,Sensitive,B
+Pnc_1729,South Africa,2002-12-27,Resistant,Sensitive,B
+Pnc_1730,USA,2009-08-20,Sensitive,Sensitive,A
+Pnc_1731,South Africa,2015-10-31,Resistant,Sensitive,B
+Pnc_1732,USA,2012-01-05,Sensitive,Sensitive,B
+Pnc_1733,South Africa,2010-11-02,Resistant,Sensitive,A
+Pnc_1734,USA,2009-07-08,Sensitive,Resistant,B
+Pnc_1735,USA,2009-01-28,Sensitive,Sensitive,B
+Pnc_1736,South Africa,2000-12-04,Sensitive,Sensitive,B
+Pnc_1737,USA,2013-03-21,Sensitive,Resistant,B
+Pnc_1738,South Africa,2010-03-06,Resistant,Sensitive,B
+Pnc_1739,USA,2005-01-18,Sensitive,Sensitive,B
+Pnc_1740,USA,2001-09-16,Sensitive,Sensitive,B
+Pnc_1741,USA,2015-05-26,Sensitive,Sensitive,B
+Pnc_1742,South Africa,2019-04-03,Resistant,Sensitive,B
+Pnc_1743,South Africa,2011-04-26,Sensitive,Sensitive,B
+Pnc_1744,South Africa,2002-10-31,Resistant,Sensitive,B
+Pnc_1745,South Africa,2018-08-27,Sensitive,Sensitive,A
+Pnc_1746,South Africa,2009-06-20,Sensitive,Sensitive,B
+Pnc_1747,South Africa,2015-07-14,Sensitive,Sensitive,A
+Pnc_1748,South Africa,2001-05-09,Sensitive,Sensitive,B
+Pnc_1749,USA,2011-09-10,Sensitive,Sensitive,B
+Pnc_1750,South Africa,2007-09-30,Resistant,Sensitive,B
+Pnc_1751,South Africa,2015-02-05,Resistant,Sensitive,A
+Pnc_1752,USA,2017-02-21,Sensitive,Resistant,B
+Pnc_1753,USA,2020-09-07,Sensitive,Resistant,B
+Pnc_1754,USA,2007-02-05,Sensitive,Resistant,B
+Pnc_1755,South Africa,2011-06-22,Resistant,Sensitive,B
+Pnc_1756,South Africa,2000-04-25,Sensitive,Sensitive,B
+Pnc_1757,South Africa,2001-04-09,Resistant,Resistant,B
+Pnc_1758,USA,2005-10-01,Sensitive,Resistant,A
+Pnc_1759,USA,2009-12-19,Sensitive,Resistant,A
+Pnc_1760,USA,2007-09-23,Sensitive,Resistant,A
+Pnc_1761,South Africa,2005-12-06,Resistant,Sensitive,B
+Pnc_1762,USA,2003-04-09,Sensitive,Sensitive,A
+Pnc_1763,South Africa,2001-11-15,Sensitive,Sensitive,B
+Pnc_1764,South Africa,2011-04-01,Sensitive,Sensitive,A
+Pnc_1765,South Africa,2012-03-25,Resistant,Sensitive,B
+Pnc_1766,USA,2014-09-25,Sensitive,Resistant,B
+Pnc_1767,South Africa,2002-06-09,Sensitive,Sensitive,A
+Pnc_1768,USA,2011-08-03,Sensitive,Sensitive,B
+Pnc_1769,USA,2018-06-21,Sensitive,Resistant,B
+Pnc_1770,South Africa,2017-09-25,Resistant,Sensitive,A
+Pnc_1771,USA,2009-12-21,Sensitive,Resistant,B
+Pnc_1772,USA,2020-09-16,Sensitive,Resistant,A
+Pnc_1773,South Africa,2001-07-04,Sensitive,Sensitive,A
+Pnc_1774,South Africa,2006-09-21,Resistant,Sensitive,A
+Pnc_1775,USA,2013-01-22,Sensitive,Sensitive,B
+Pnc_1776,South Africa,2000-04-27,Resistant,Sensitive,B
+Pnc_1777,USA,2009-03-21,Sensitive,Resistant,A
+Pnc_1778,South Africa,2008-05-14,Resistant,Resistant,A
+Pnc_1779,South Africa,2012-01-21,Sensitive,Sensitive,A
+Pnc_1780,USA,2009-01-27,Sensitive,Resistant,B
+Pnc_1781,USA,2012-08-31,Sensitive,Resistant,B
+Pnc_1782,South Africa,2012-08-05,Resistant,Sensitive,A
+Pnc_1783,South Africa,2011-02-27,Resistant,Sensitive,A
+Pnc_1784,USA,2003-06-25,Sensitive,Sensitive,A
+Pnc_1785,USA,2010-06-25,Sensitive,Resistant,B
+Pnc_1786,USA,2010-04-21,Resistant,Sensitive,B
+Pnc_1787,USA,2017-06-04,Sensitive,Sensitive,B
+Pnc_1788,USA,2008-05-11,Sensitive,Sensitive,B
+Pnc_1789,USA,2008-10-17,Sensitive,Sensitive,A
+Pnc_1790,South Africa,2000-01-04,Sensitive,Sensitive,B
+Pnc_1791,USA,2003-06-06,Sensitive,Resistant,A
+Pnc_1792,South Africa,2010-07-24,Resistant,Sensitive,A
+Pnc_1793,South Africa,2011-12-09,Sensitive,Resistant,A
+Pnc_1794,USA,2020-11-27,Sensitive,Sensitive,B
+Pnc_1795,USA,2016-04-17,Resistant,Resistant,B
+Pnc_1796,South Africa,2010-11-30,Sensitive,Sensitive,B
+Pnc_1797,South Africa,2003-04-21,Sensitive,Resistant,A
+Pnc_1798,South Africa,2014-03-28,Sensitive,Sensitive,B
+Pnc_1799,South Africa,2008-06-29,Resistant,Sensitive,B
+Pnc_1800,South Africa,2010-03-23,Resistant,Sensitive,A
+Pnc_1801,South Africa,2004-07-10,Sensitive,Resistant,B
+Pnc_1802,USA,2013-03-15,Sensitive,Sensitive,B
+Pnc_1803,USA,2020-04-09,Sensitive,Sensitive,B
+Pnc_1804,South Africa,2002-01-13,Resistant,Sensitive,A
+Pnc_1805,South Africa,2020-07-04,Sensitive,Sensitive,B
+Pnc_1806,South Africa,2011-06-27,Resistant,Resistant,A
+Pnc_1807,South Africa,2019-07-03,Resistant,Sensitive,A
+Pnc_1808,South Africa,2009-09-26,Resistant,Sensitive,B
+Pnc_1809,USA,2008-02-06,Sensitive,Resistant,B
+Pnc_1810,USA,2001-01-26,Sensitive,Resistant,A
+Pnc_1811,USA,2005-11-21,Sensitive,Resistant,B
+Pnc_1812,USA,2016-07-28,Sensitive,Resistant,B
+Pnc_1813,USA,2017-02-08,Sensitive,Resistant,B
+Pnc_1814,South Africa,2006-07-11,Sensitive,Sensitive,B
+Pnc_1815,USA,2018-09-28,Resistant,Sensitive,B
+Pnc_1816,South Africa,2005-12-02,Resistant,Sensitive,A
+Pnc_1817,USA,2020-03-06,Sensitive,Sensitive,B
+Pnc_1818,South Africa,2009-11-03,Sensitive,Resistant,B
+Pnc_1819,USA,2004-05-24,Sensitive,Sensitive,A
+Pnc_1820,South Africa,2018-06-06,Sensitive,Sensitive,A
+Pnc_1821,South Africa,2012-03-23,Sensitive,Sensitive,A
+Pnc_1822,USA,2020-07-08,Sensitive,Resistant,B
+Pnc_1823,USA,2014-07-17,Sensitive,Resistant,B
+Pnc_1824,South Africa,2007-03-04,Resistant,Sensitive,A
+Pnc_1825,South Africa,2005-02-11,Resistant,Sensitive,A
+Pnc_1826,South Africa,2007-11-04,Sensitive,Sensitive,B
+Pnc_1827,South Africa,2014-12-29,Resistant,Sensitive,B
+Pnc_1828,USA,2003-11-21,Sensitive,Sensitive,A
+Pnc_1829,South Africa,2014-12-10,Resistant,Sensitive,B
+Pnc_1830,USA,2008-04-24,Sensitive,Resistant,A
+Pnc_1831,South Africa,2011-09-01,Sensitive,Sensitive,A
+Pnc_1832,South Africa,2001-10-23,Sensitive,Resistant,B
+Pnc_1833,South Africa,2008-07-02,Sensitive,Sensitive,B
+Pnc_1834,South Africa,2006-04-29,Resistant,Sensitive,A
+Pnc_1835,USA,2003-06-27,Sensitive,Sensitive,A
+Pnc_1836,South Africa,2009-11-08,Resistant,Sensitive,B
+Pnc_1837,South Africa,2016-09-11,Sensitive,Sensitive,B
+Pnc_1838,South Africa,2013-01-15,Resistant,Sensitive,B
+Pnc_1839,South Africa,2005-07-30,Sensitive,Sensitive,A
+Pnc_1840,USA,2018-03-15,Sensitive,Resistant,B
+Pnc_1841,South Africa,2010-06-22,Sensitive,Sensitive,B
+Pnc_1842,USA,2000-05-29,Sensitive,Resistant,B
+Pnc_1843,USA,2012-08-06,Sensitive,Sensitive,B
+Pnc_1844,South Africa,2015-01-03,Sensitive,Sensitive,A
+Pnc_1845,USA,2017-03-03,Sensitive,Sensitive,A
+Pnc_1846,South Africa,2013-02-19,Sensitive,Sensitive,B
+Pnc_1847,USA,2007-07-03,Sensitive,Resistant,A
+Pnc_1848,South Africa,2012-05-29,Resistant,Sensitive,B
+Pnc_1849,USA,2000-04-23,Sensitive,Resistant,A
+Pnc_1850,USA,2018-12-26,Sensitive,Resistant,B
+Pnc_1851,South Africa,2002-10-30,Resistant,Sensitive,A
+Pnc_1852,South Africa,2018-01-02,Sensitive,Sensitive,A
+Pnc_1853,South Africa,2007-08-24,Resistant,Resistant,B
+Pnc_1854,USA,2003-04-08,Resistant,Sensitive,A
+Pnc_1855,USA,2009-05-24,Resistant,Sensitive,A
+Pnc_1856,South Africa,2015-05-17,Resistant,Sensitive,A
+Pnc_1857,South Africa,2003-03-03,Sensitive,Sensitive,B
+Pnc_1858,USA,2017-03-06,Sensitive,Resistant,B
+Pnc_1859,USA,2016-06-20,Sensitive,Resistant,B
+Pnc_1860,USA,2006-03-19,Sensitive,Sensitive,B
+Pnc_1861,South Africa,2004-02-16,Resistant,Sensitive,A
+Pnc_1862,USA,2000-05-23,Sensitive,Sensitive,A
+Pnc_1863,South Africa,2002-01-25,Sensitive,Sensitive,B
+Pnc_1864,USA,2018-09-22,Sensitive,Sensitive,B
+Pnc_1865,USA,2007-12-11,Sensitive,Resistant,A
+Pnc_1866,USA,2010-11-29,Sensitive,Sensitive,B
+Pnc_1867,USA,2018-09-21,Sensitive,Sensitive,B
+Pnc_1868,South Africa,2004-11-25,Sensitive,Sensitive,B
+Pnc_1869,USA,2005-02-16,Sensitive,Resistant,A
+Pnc_1870,USA,2002-06-04,Sensitive,Sensitive,B
+Pnc_1871,USA,2003-08-13,Resistant,Sensitive,A
+Pnc_1872,USA,2015-06-24,Sensitive,Sensitive,B
+Pnc_1873,South Africa,2012-09-06,Sensitive,Sensitive,A
+Pnc_1874,USA,2015-09-17,Sensitive,Sensitive,B
+Pnc_1875,South Africa,2020-01-29,Resistant,Sensitive,B
+Pnc_1876,USA,2008-10-31,Sensitive,Sensitive,A
+Pnc_1877,USA,2002-01-24,Sensitive,Sensitive,B
+Pnc_1878,South Africa,2007-09-12,Resistant,Sensitive,B
+Pnc_1879,South Africa,2019-01-20,Sensitive,Sensitive,B
+Pnc_1880,South Africa,2019-04-16,Resistant,Resistant,B
+Pnc_1881,South Africa,2000-08-11,Sensitive,Sensitive,B
+Pnc_1882,South Africa,2009-09-15,Resistant,Sensitive,A
+Pnc_1883,South Africa,2019-02-15,Sensitive,Resistant,A
+Pnc_1884,USA,2018-01-05,Sensitive,Resistant,B
+Pnc_1885,USA,2008-10-16,Sensitive,Sensitive,B
+Pnc_1886,South Africa,2014-12-31,Sensitive,Sensitive,A
+Pnc_1887,USA,2013-01-30,Sensitive,Resistant,B
+Pnc_1888,USA,2001-06-26,Sensitive,Sensitive,A
+Pnc_1889,South Africa,2011-06-10,Sensitive,Resistant,B
+Pnc_1890,South Africa,2002-04-07,Sensitive,Sensitive,A
+Pnc_1891,USA,2011-02-10,Sensitive,Resistant,B
+Pnc_1892,South Africa,2014-04-15,Sensitive,Sensitive,A
+Pnc_1893,South Africa,2010-07-01,Sensitive,Resistant,A
+Pnc_1894,USA,2014-05-05,Sensitive,Resistant,B
+Pnc_1895,USA,2020-11-15,Sensitive,Resistant,A
+Pnc_1896,South Africa,2020-05-10,Sensitive,Sensitive,B
+Pnc_1897,USA,2004-04-02,Sensitive,Sensitive,B
+Pnc_1898,USA,2012-05-05,Sensitive,Sensitive,B
+Pnc_1899,South Africa,2002-05-25,Resistant,Sensitive,A
+Pnc_1900,USA,2014-11-30,Sensitive,Sensitive,B
+Pnc_1901,South Africa,2019-10-09,Resistant,Sensitive,A
+Pnc_1902,USA,2020-11-03,Resistant,Sensitive,B
+Pnc_1903,South Africa,2018-10-02,Resistant,Sensitive,B
+Pnc_1904,South Africa,2000-09-30,Sensitive,Sensitive,B
+Pnc_1905,USA,2005-01-04,Sensitive,Sensitive,A
+Pnc_1906,USA,2008-04-16,Sensitive,Sensitive,B
+Pnc_1907,South Africa,2011-06-29,Resistant,Sensitive,A
+Pnc_1908,South Africa,2012-12-13,Sensitive,Sensitive,B
+Pnc_1909,South Africa,2009-08-09,Sensitive,Sensitive,B
+Pnc_1910,USA,2013-05-28,Sensitive,Sensitive,A
+Pnc_1911,South Africa,2013-03-28,Sensitive,Sensitive,A
+Pnc_1912,South Africa,2004-08-10,Sensitive,Sensitive,A
+Pnc_1913,South Africa,2007-10-15,Sensitive,Sensitive,A
+Pnc_1914,South Africa,2006-01-26,Resistant,Sensitive,B
+Pnc_1915,USA,2001-03-03,Sensitive,Resistant,A
+Pnc_1916,South Africa,2004-11-03,Sensitive,Sensitive,A
+Pnc_1917,South Africa,2013-11-28,Sensitive,Sensitive,B
+Pnc_1918,USA,2018-05-03,Sensitive,Sensitive,B
+Pnc_1919,South Africa,2008-07-04,Resistant,Resistant,A
+Pnc_1920,South Africa,2015-05-20,Sensitive,Sensitive,B
+Pnc_1921,South Africa,2011-07-16,Sensitive,Sensitive,A
+Pnc_1922,South Africa,2015-08-13,Sensitive,Sensitive,B
+Pnc_1923,South Africa,2011-08-11,Resistant,Sensitive,A
+Pnc_1924,South Africa,2004-03-19,Sensitive,Sensitive,A
+Pnc_1925,South Africa,2002-09-27,Sensitive,Sensitive,A
+Pnc_1926,South Africa,2005-11-10,Sensitive,Sensitive,A
+Pnc_1927,USA,2010-12-19,Resistant,Resistant,B
+Pnc_1928,South Africa,2017-07-28,Sensitive,Sensitive,A
+Pnc_1929,South Africa,2007-07-13,Resistant,Sensitive,B
+Pnc_1930,South Africa,2016-10-30,Resistant,Sensitive,A
+Pnc_1931,South Africa,2005-08-23,Sensitive,Sensitive,A
+Pnc_1932,USA,2000-04-14,Sensitive,Resistant,A
+Pnc_1933,South Africa,2011-12-01,Sensitive,Sensitive,A
+Pnc_1934,USA,2012-02-02,Sensitive,Resistant,A
+Pnc_1935,South Africa,2009-03-04,Resistant,Sensitive,A
+Pnc_1936,South Africa,2020-08-02,Sensitive,Sensitive,B
+Pnc_1937,USA,2017-12-10,Sensitive,Resistant,B
+Pnc_1938,South Africa,2012-09-08,Resistant,Sensitive,B
+Pnc_1939,South Africa,2011-03-15,Resistant,Sensitive,B
+Pnc_1940,USA,2018-09-18,Sensitive,Resistant,B
+Pnc_1941,South Africa,2006-08-01,Resistant,Sensitive,A
+Pnc_1942,USA,2003-09-01,Sensitive,Sensitive,B
+Pnc_1943,USA,2012-06-13,Sensitive,Resistant,B
+Pnc_1944,South Africa,2018-09-12,Sensitive,Sensitive,B
+Pnc_1945,USA,2011-01-06,Sensitive,Resistant,B
+Pnc_1946,South Africa,2010-02-09,Sensitive,Resistant,B
+Pnc_1947,South Africa,2016-08-27,Resistant,Sensitive,A
+Pnc_1948,USA,2001-02-01,Sensitive,Sensitive,B
+Pnc_1949,South Africa,2015-07-09,Sensitive,Sensitive,B
+Pnc_1950,South Africa,2011-04-28,Sensitive,Sensitive,A
+Pnc_1951,South Africa,2017-05-13,Resistant,Resistant,B
+Pnc_1952,USA,2020-03-08,Sensitive,Sensitive,B
+Pnc_1953,USA,2000-08-21,Sensitive,Resistant,B
+Pnc_1954,USA,2001-01-01,Sensitive,Sensitive,A
+Pnc_1955,USA,2016-07-16,Resistant,Resistant,B
+Pnc_1956,USA,2020-02-25,Sensitive,Resistant,B
+Pnc_1957,South Africa,2016-11-11,Sensitive,Sensitive,A
+Pnc_1958,USA,2013-04-06,Sensitive,Resistant,B
+Pnc_1959,USA,2013-09-28,Resistant,Sensitive,B
+Pnc_1960,South Africa,2016-05-24,Resistant,Resistant,A
+Pnc_1961,USA,2019-07-02,Sensitive,Sensitive,B
+Pnc_1962,South Africa,2007-05-18,Resistant,Sensitive,B
+Pnc_1963,USA,2000-06-12,Sensitive,Resistant,A
+Pnc_1964,USA,2010-02-12,Sensitive,Sensitive,B
+Pnc_1965,USA,2017-10-07,Sensitive,Sensitive,B
+Pnc_1966,South Africa,2017-11-15,Sensitive,Sensitive,B
+Pnc_1967,South Africa,2015-04-24,Resistant,Sensitive,A
+Pnc_1968,South Africa,2010-04-29,Sensitive,Sensitive,A
+Pnc_1969,South Africa,2019-11-22,Resistant,Resistant,B
+Pnc_1970,South Africa,2001-09-24,Sensitive,Sensitive,A
+Pnc_1971,USA,2014-06-09,Sensitive,Resistant,B
+Pnc_1972,USA,2019-09-12,Sensitive,Resistant,B
+Pnc_1973,South Africa,2000-06-13,Sensitive,Sensitive,B
+Pnc_1974,South Africa,2013-10-16,Resistant,Sensitive,A
+Pnc_1975,South Africa,2008-03-14,Sensitive,Sensitive,B
+Pnc_1976,South Africa,2006-04-11,Resistant,Sensitive,A
+Pnc_1977,USA,2015-12-11,Sensitive,Sensitive,B
+Pnc_1978,South Africa,2010-12-10,Resistant,Sensitive,A
+Pnc_1979,South Africa,2004-01-10,Sensitive,Sensitive,A
+Pnc_1980,USA,2001-04-23,Sensitive,Resistant,A
+Pnc_1981,USA,2017-07-18,Sensitive,Sensitive,B
+Pnc_1982,South Africa,2016-04-10,Resistant,Sensitive,A
+Pnc_1983,South Africa,2006-01-27,Sensitive,Sensitive,B
+Pnc_1984,South Africa,2011-11-10,Sensitive,Sensitive,A
+Pnc_1985,USA,2002-09-11,Sensitive,Resistant,A
+Pnc_1986,South Africa,2012-05-15,Resistant,Sensitive,B
+Pnc_1987,USA,2018-05-16,Sensitive,Resistant,B
+Pnc_1988,South Africa,2002-07-07,Sensitive,Resistant,B
+Pnc_1989,USA,2016-03-14,Sensitive,Sensitive,B
+Pnc_1990,USA,2009-02-17,Sensitive,Resistant,A
+Pnc_1991,South Africa,2016-10-11,Resistant,Sensitive,B
+Pnc_1992,USA,2004-01-31,Resistant,Sensitive,B
+Pnc_1993,South Africa,2015-06-16,Sensitive,Sensitive,B
+Pnc_1994,USA,2003-10-07,Sensitive,Resistant,A
+Pnc_1995,South Africa,2002-01-11,Resistant,Sensitive,A
+Pnc_1996,USA,2003-07-16,Sensitive,Resistant,B
+Pnc_1997,South Africa,2012-06-19,Sensitive,Resistant,B
+Pnc_1998,USA,2014-08-04,Sensitive,Resistant,B
+Pnc_1999,South Africa,2014-03-10,Resistant,Sensitive,B
+Pnc_2000,USA,2001-02-26,Sensitive,Resistant,B
